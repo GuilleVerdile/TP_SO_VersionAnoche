@@ -55,6 +55,7 @@ sem_t sem_esperaInicializacion;
 pthread_t hiloDummy;
 pthread_t hiloEjecucionProceso;
 pthread_t hiloPLPcargaAmemoria;
+pthread_mutex_t mutex_listaCPUs;
 pthread_mutex_t mutex_pausa;
 pthread_mutex_t mutex_proc_ejecucion;
 //pthread_mutex_t mutex_proc_ejecucion;
