@@ -962,7 +962,7 @@ void *planificadorCortoPlazo(){//como parametro le tengo que pasar la direccion 
 			}
 			(*unaCPU).tieneDTBasociado = 1;
 			(*proceso).socketProceso = (*unaCPU).socketCPU;
-			log_info(logger, "Se reservo una CPU para el DTB");
+			log_info(logger, "Se reservo una CPU para el DTB.... socketCPU: %d",(*unaCPU).socketCPU);
 			(*proceso).estado=ejecucion;
 			pthread_mutex_lock(&mutex_proc_ejecucion);
 			list_add(procesosEnEjecucion,proceso);
