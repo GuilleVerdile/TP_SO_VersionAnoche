@@ -691,6 +691,8 @@ void* inicializarSAFA(){
 	sem_init(&sem_pausar,0,1);
 	sem_init(&sem_cargarProceso,0,0);
 	//
+	pthread_mutex_t mutex_listaCPUs;
+	pthread_mutex_init(&mutex_listaCPUs,NULL);
 	pthread_mutex_init(&mutex_pausa,NULL);
 	pthread_mutex_init(&mutex_proc_ejecucion,NULL);
 	pthread_mutex_init(&mutex_socketProcEjecucionABuscar,NULL);
@@ -954,7 +956,9 @@ void *planificadorCortoPlazo(){//como parametro le tengo que pasar la direccion 
 			}
 			else
 			{
+				pthread_mutex_lock(&mutex_listaCPUs);
 				unaCPU = list_find(cpu_conectadas,&noTieneDTBasociado);
+				pthread_mutex_unlock(&mutex_listaCPUs);
 			}
 			(*unaCPU).tieneDTBasociado = 1;
 			(*proceso).socketProceso = (*unaCPU).socketCPU;
