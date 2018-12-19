@@ -1,0 +1,750 @@
+[INFO] 17:57:01:732 Consola_MDJ/(9343:9347): Consola File System
+[INFO] 17:57:01:733 Consola_MDJ/(9343:9347): Ingrese la operacion deseada:
+[INFO] 17:57:01:733 Consola_MDJ/(9343:9347): ls (path_Directorio)
+[INFO] 17:57:01:734 Consola_MDJ/(9343:9347): cd (path_Directorio)
+[INFO] 17:57:01:734 Consola_MDJ/(9343:9347): md5 (path_Archivo)
+[INFO] 17:57:01:736 Consola_MDJ/(9343:9347): cat (path_Archivo)
+[INFO] 18:06:03:406 Consola_MDJ/(9343:9347): Se ingreso comando ls
+[INFO] 18:15:05:783 Consola_MDJ/(9514:9515): Consola File System
+[INFO] 18:15:05:783 Consola_MDJ/(9514:9515): Ingrese la operacion deseada:
+[INFO] 18:15:05:783 Consola_MDJ/(9514:9515): ls (path_Directorio)
+[INFO] 18:15:05:783 Consola_MDJ/(9514:9515): cd (path_Directorio)
+[INFO] 18:15:05:788 Consola_MDJ/(9514:9515): md5 (path_Archivo)
+[INFO] 18:15:05:792 Consola_MDJ/(9514:9515): cat (path_Archivo)
+[INFO] 18:45:55:727 Consola_MDJ/(9887:9888): Consola File System
+[INFO] 18:45:55:727 Consola_MDJ/(9887:9888): Ingrese la operacion deseada:
+[INFO] 18:45:55:727 Consola_MDJ/(9887:9888): ls (path_Directorio)
+[INFO] 18:45:55:732 Consola_MDJ/(9887:9888): cd (path_Directorio)
+[INFO] 18:45:55:732 Consola_MDJ/(9887:9888): md5 (path_Archivo)
+[INFO] 18:45:55:733 Consola_MDJ/(9887:9888): cat (path_Archivo)
+[INFO] 18:47:06:397 Consola_MDJ/(9887:9888): Se ingreso comando ls
+[ERROR] 18:51:31:273 Consola_MDJ/(9887:9888): No se reconocio el comando
+[INFO] 18:53:16:369 Consola_MDJ/(9981:9982): Consola File System
+[INFO] 18:53:16:372 Consola_MDJ/(9981:9982): Ingrese la operacion deseada:
+[INFO] 18:53:16:372 Consola_MDJ/(9981:9982): ls (path_Directorio)
+[INFO] 18:53:16:373 Consola_MDJ/(9981:9982): cd (path_Directorio)
+[INFO] 18:53:16:374 Consola_MDJ/(9981:9982): md5 (path_Archivo)
+[INFO] 18:53:16:380 Consola_MDJ/(9981:9982): cat (path_Archivo)
+[INFO] 18:53:21:573 Consola_MDJ/(9985:9986): Consola File System
+[INFO] 18:53:21:574 Consola_MDJ/(9985:9986): Ingrese la operacion deseada:
+[INFO] 18:53:21:575 Consola_MDJ/(9985:9986): ls (path_Directorio)
+[INFO] 18:53:21:575 Consola_MDJ/(9985:9986): cd (path_Directorio)
+[INFO] 18:53:21:577 Consola_MDJ/(9985:9986): md5 (path_Archivo)
+[INFO] 18:53:21:583 Consola_MDJ/(9985:9986): cat (path_Archivo)
+[INFO] 19:07:32:128 Consola_MDJ/(10194:10195): Consola File System
+[INFO] 19:07:32:128 Consola_MDJ/(10194:10195): Ingrese la operacion deseada:
+[INFO] 19:07:32:132 Consola_MDJ/(10194:10195): ls (path_Directorio)
+[INFO] 19:07:32:136 Consola_MDJ/(10194:10195): cd (path_Directorio)
+[INFO] 19:07:32:137 Consola_MDJ/(10194:10195): md5 (path_Archivo)
+[INFO] 19:07:32:137 Consola_MDJ/(10194:10195): cat (path_Archivo)
+[INFO] 19:16:43:291 Consola_MDJ/(10427:10428): Consola File System
+[INFO] 19:16:43:293 Consola_MDJ/(10427:10428): Ingrese la operacion deseada:
+[INFO] 19:16:43:295 Consola_MDJ/(10427:10428): ls (path_Directorio)
+[INFO] 19:16:43:295 Consola_MDJ/(10427:10428): cd (path_Directorio)
+[INFO] 19:16:43:297 Consola_MDJ/(10427:10428): md5 (path_Archivo)
+[INFO] 19:16:43:298 Consola_MDJ/(10427:10428): cat (path_Archivo)
+[INFO] 19:21:58:592 Consola_MDJ/(10630:10631): Consola File System
+[INFO] 19:21:58:594 Consola_MDJ/(10630:10631): Ingrese la operacion deseada:
+[INFO] 19:21:58:595 Consola_MDJ/(10630:10631): ls (path_Directorio)
+[INFO] 19:21:58:609 Consola_MDJ/(10630:10631): cd (path_Directorio)
+[INFO] 19:21:58:609 Consola_MDJ/(10630:10631): md5 (path_Archivo)
+[INFO] 19:21:58:609 Consola_MDJ/(10630:10631): cat (path_Archivo)
+[INFO] 19:22:25:953 Consola_MDJ/(10643:10644): Consola File System
+[INFO] 19:22:25:957 Consola_MDJ/(10643:10644): Ingrese la operacion deseada:
+[INFO] 19:22:25:958 Consola_MDJ/(10643:10644): ls (path_Directorio)
+[INFO] 19:22:25:958 Consola_MDJ/(10643:10644): cd (path_Directorio)
+[INFO] 19:22:25:958 Consola_MDJ/(10643:10644): md5 (path_Archivo)
+[INFO] 19:22:25:959 Consola_MDJ/(10643:10644): cat (path_Archivo)
+[INFO] 19:23:59:415 Consola_MDJ/(10700:10701): Consola File System
+[INFO] 19:23:59:415 Consola_MDJ/(10700:10701): Ingrese la operacion deseada:
+[INFO] 19:23:59:415 Consola_MDJ/(10700:10701): ls (path_Directorio)
+[INFO] 19:23:59:428 Consola_MDJ/(10700:10701): cd (path_Directorio)
+[INFO] 19:23:59:428 Consola_MDJ/(10700:10701): md5 (path_Archivo)
+[INFO] 19:23:59:429 Consola_MDJ/(10700:10701): cat (path_Archivo)
+[INFO] 19:29:28:889 Consola_MDJ/(10787:10788): Consola File System
+[INFO] 19:29:28:889 Consola_MDJ/(10787:10788): Ingrese la operacion deseada:
+[INFO] 19:29:28:890 Consola_MDJ/(10787:10788): ls (path_Directorio)
+[INFO] 19:29:28:890 Consola_MDJ/(10787:10788): cd (path_Directorio)
+[INFO] 19:29:28:891 Consola_MDJ/(10787:10788): md5 (path_Archivo)
+[INFO] 19:29:28:891 Consola_MDJ/(10787:10788): cat (path_Archivo)
+[INFO] 19:32:10:149 Consola_MDJ/(10869:10870): Consola File System
+[INFO] 19:32:10:149 Consola_MDJ/(10869:10870): Ingrese la operacion deseada:
+[INFO] 19:32:10:150 Consola_MDJ/(10869:10870): ls (path_Directorio)
+[INFO] 19:32:10:156 Consola_MDJ/(10869:10870): cd (path_Directorio)
+[INFO] 19:32:10:157 Consola_MDJ/(10869:10870): md5 (path_Archivo)
+[INFO] 19:32:10:157 Consola_MDJ/(10869:10870): cat (path_Archivo)
+[INFO] 19:38:25:151 Consola_MDJ/(11004:11005): Consola File System
+[INFO] 19:38:25:151 Consola_MDJ/(11004:11005): Ingrese la operacion deseada:
+[INFO] 19:38:25:152 Consola_MDJ/(11004:11005): ls (path_Directorio)
+[INFO] 19:38:25:153 Consola_MDJ/(11004:11005): cd (path_Directorio)
+[INFO] 19:38:25:154 Consola_MDJ/(11004:11005): md5 (path_Archivo)
+[INFO] 19:38:25:154 Consola_MDJ/(11004:11005): cat (path_Archivo)
+[INFO] 19:45:55:36 Consola_MDJ/(11159:11160): Consola File System
+[INFO] 19:45:55:37 Consola_MDJ/(11159:11160): Ingrese la operacion deseada:
+[INFO] 19:45:55:38 Consola_MDJ/(11159:11160): ls (path_Directorio)
+[INFO] 19:45:55:38 Consola_MDJ/(11159:11160): cd (path_Directorio)
+[INFO] 19:45:55:39 Consola_MDJ/(11159:11160): md5 (path_Archivo)
+[INFO] 19:45:55:41 Consola_MDJ/(11159:11160): cat (path_Archivo)
+[INFO] 19:52:32:936 Consola_MDJ/(11278:11279): Consola File System
+[INFO] 19:52:32:945 Consola_MDJ/(11278:11279): Ingrese la operacion deseada:
+[INFO] 19:52:32:946 Consola_MDJ/(11278:11279): ls (path_Directorio)
+[INFO] 19:52:32:946 Consola_MDJ/(11278:11279): cd (path_Directorio)
+[INFO] 19:52:32:946 Consola_MDJ/(11278:11279): md5 (path_Archivo)
+[INFO] 19:52:32:946 Consola_MDJ/(11278:11279): cat (path_Archivo)
+[INFO] 19:54:11:245 Consola_MDJ/(11342:11343): Consola File System
+[INFO] 19:54:11:246 Consola_MDJ/(11342:11343): Ingrese la operacion deseada:
+[INFO] 19:54:11:246 Consola_MDJ/(11342:11343): ls (path_Directorio)
+[INFO] 19:54:11:247 Consola_MDJ/(11342:11343): cd (path_Directorio)
+[INFO] 19:54:11:250 Consola_MDJ/(11342:11343): md5 (path_Archivo)
+[INFO] 19:54:11:252 Consola_MDJ/(11342:11343): cat (path_Archivo)
+[INFO] 19:58:16:849 Consola_MDJ/(11394:11395): Consola File System
+[INFO] 19:58:16:850 Consola_MDJ/(11394:11395): Ingrese la operacion deseada:
+[INFO] 19:58:16:850 Consola_MDJ/(11394:11395): ls (path_Directorio)
+[INFO] 19:58:16:850 Consola_MDJ/(11394:11395): cd (path_Directorio)
+[INFO] 19:58:16:851 Consola_MDJ/(11394:11395): md5 (path_Archivo)
+[INFO] 19:58:16:853 Consola_MDJ/(11394:11395): cat (path_Archivo)
+[INFO] 20:05:44:580 Consola_MDJ/(11571:11572): Consola File System
+[INFO] 20:05:44:581 Consola_MDJ/(11571:11572): Ingrese la operacion deseada:
+[INFO] 20:05:44:584 Consola_MDJ/(11571:11572): ls (path_Directorio)
+[INFO] 20:05:44:585 Consola_MDJ/(11571:11572): cd (path_Directorio)
+[INFO] 20:05:44:585 Consola_MDJ/(11571:11572): md5 (path_Archivo)
+[INFO] 20:05:44:586 Consola_MDJ/(11571:11572): cat (path_Archivo)
+[INFO] 20:10:32:36 Consola_MDJ/(11686:11687): Consola File System
+[INFO] 20:10:32:44 Consola_MDJ/(11686:11687): Ingrese la operacion deseada:
+[INFO] 20:10:32:44 Consola_MDJ/(11686:11687): ls (path_Directorio)
+[INFO] 20:10:32:49 Consola_MDJ/(11686:11687): cd (path_Directorio)
+[INFO] 20:10:32:49 Consola_MDJ/(11686:11687): md5 (path_Archivo)
+[INFO] 20:10:32:49 Consola_MDJ/(11686:11687): cat (path_Archivo)
+[INFO] 20:57:56:814 Consola_MDJ/(12446:12447): Consola File System
+[INFO] 20:57:56:814 Consola_MDJ/(12446:12447): Ingrese la operacion deseada:
+[INFO] 20:57:56:817 Consola_MDJ/(12446:12447): ls (path_Directorio)
+[INFO] 20:57:56:817 Consola_MDJ/(12446:12447): cd (path_Directorio)
+[INFO] 20:57:56:821 Consola_MDJ/(12446:12447): md5 (path_Archivo)
+[INFO] 20:57:56:822 Consola_MDJ/(12446:12447): cat (path_Archivo)
+[INFO] 20:57:59:590 Consola_MDJ/(12449:12450): Consola File System
+[INFO] 20:57:59:591 Consola_MDJ/(12449:12450): Ingrese la operacion deseada:
+[INFO] 20:57:59:591 Consola_MDJ/(12449:12450): ls (path_Directorio)
+[INFO] 20:57:59:593 Consola_MDJ/(12449:12450): cd (path_Directorio)
+[INFO] 20:57:59:593 Consola_MDJ/(12449:12450): md5 (path_Archivo)
+[INFO] 20:57:59:594 Consola_MDJ/(12449:12450): cat (path_Archivo)
+[INFO] 21:06:35:285 Consola_MDJ/(12599:12600): Consola File System
+[INFO] 21:06:35:285 Consola_MDJ/(12599:12600): Ingrese la operacion deseada:
+[INFO] 21:06:35:285 Consola_MDJ/(12599:12600): ls (path_Directorio)
+[INFO] 21:06:35:286 Consola_MDJ/(12599:12600): cd (path_Directorio)
+[INFO] 21:06:35:286 Consola_MDJ/(12599:12600): md5 (path_Archivo)
+[INFO] 21:06:35:286 Consola_MDJ/(12599:12600): cat (path_Archivo)
+[INFO] 21:08:01:84 Consola_MDJ/(12645:12646): Consola File System
+[INFO] 21:08:01:85 Consola_MDJ/(12645:12646): Ingrese la operacion deseada:
+[INFO] 21:08:01:86 Consola_MDJ/(12645:12646): ls (path_Directorio)
+[INFO] 21:08:01:86 Consola_MDJ/(12645:12646): cd (path_Directorio)
+[INFO] 21:08:01:87 Consola_MDJ/(12645:12646): md5 (path_Archivo)
+[INFO] 21:08:01:88 Consola_MDJ/(12645:12646): cat (path_Archivo)
+[INFO] 21:08:43:334 Consola_MDJ/(12686:12687): Consola File System
+[INFO] 21:08:43:334 Consola_MDJ/(12686:12687): Ingrese la operacion deseada:
+[INFO] 21:08:43:335 Consola_MDJ/(12686:12687): ls (path_Directorio)
+[INFO] 21:08:43:336 Consola_MDJ/(12686:12687): cd (path_Directorio)
+[INFO] 21:08:43:340 Consola_MDJ/(12686:12687): md5 (path_Archivo)
+[INFO] 21:08:43:341 Consola_MDJ/(12686:12687): cat (path_Archivo)
+[INFO] 21:09:34:353 Consola_MDJ/(12742:12743): Consola File System
+[INFO] 21:09:34:353 Consola_MDJ/(12742:12743): Ingrese la operacion deseada:
+[INFO] 21:09:34:353 Consola_MDJ/(12742:12743): ls (path_Directorio)
+[INFO] 21:09:34:354 Consola_MDJ/(12742:12743): cd (path_Directorio)
+[INFO] 21:09:34:354 Consola_MDJ/(12742:12743): md5 (path_Archivo)
+[INFO] 21:09:34:355 Consola_MDJ/(12742:12743): cat (path_Archivo)
+[INFO] 21:12:35:83 Consola_MDJ/(12830:12831): Consola File System
+[INFO] 21:12:35:87 Consola_MDJ/(12830:12831): Ingrese la operacion deseada:
+[INFO] 21:12:35:93 Consola_MDJ/(12830:12831): ls (path_Directorio)
+[INFO] 21:12:35:94 Consola_MDJ/(12830:12831): cd (path_Directorio)
+[INFO] 21:12:35:95 Consola_MDJ/(12830:12831): md5 (path_Archivo)
+[INFO] 21:12:35:95 Consola_MDJ/(12830:12831): cat (path_Archivo)
+[INFO] 21:13:12:325 Consola_MDJ/(12868:12869): Consola File System
+[INFO] 21:13:12:326 Consola_MDJ/(12868:12869): Ingrese la operacion deseada:
+[INFO] 21:13:12:326 Consola_MDJ/(12868:12869): ls (path_Directorio)
+[INFO] 21:13:12:326 Consola_MDJ/(12868:12869): cd (path_Directorio)
+[INFO] 21:13:12:326 Consola_MDJ/(12868:12869): md5 (path_Archivo)
+[INFO] 21:13:12:327 Consola_MDJ/(12868:12869): cat (path_Archivo)
+[INFO] 21:38:25:615 Consola_MDJ/(13213:13214): Consola File System
+[INFO] 21:38:25:615 Consola_MDJ/(13213:13214): Ingrese la operacion deseada:
+[INFO] 21:38:25:616 Consola_MDJ/(13213:13214): ls (path_Directorio)
+[INFO] 21:38:25:620 Consola_MDJ/(13213:13214): cd (path_Directorio)
+[INFO] 21:38:25:622 Consola_MDJ/(13213:13214): md5 (path_Archivo)
+[INFO] 21:38:25:622 Consola_MDJ/(13213:13214): cat (path_Archivo)
+[INFO] 21:40:36:673 Consola_MDJ/(13247:13248): Consola File System
+[INFO] 21:40:36:673 Consola_MDJ/(13247:13248): Ingrese la operacion deseada:
+[INFO] 21:40:36:674 Consola_MDJ/(13247:13248): ls (path_Directorio)
+[INFO] 21:40:36:674 Consola_MDJ/(13247:13248): cd (path_Directorio)
+[INFO] 21:40:36:676 Consola_MDJ/(13247:13248): md5 (path_Archivo)
+[INFO] 21:40:36:682 Consola_MDJ/(13247:13248): cat (path_Archivo)
+[INFO] 22:46:38:790 Consola_MDJ/(14049:14050): Consola File System
+[INFO] 22:46:38:791 Consola_MDJ/(14049:14050): Ingrese la operacion deseada:
+[INFO] 22:46:38:791 Consola_MDJ/(14049:14050): ls (path_Directorio)
+[INFO] 22:46:38:792 Consola_MDJ/(14049:14050): cd (path_Directorio)
+[INFO] 22:46:38:793 Consola_MDJ/(14049:14050): md5 (path_Archivo)
+[INFO] 22:46:38:794 Consola_MDJ/(14049:14050): cat (path_Archivo)
+[INFO] 22:49:45:253 Consola_MDJ/(14158:14159): Consola File System
+[INFO] 22:49:45:253 Consola_MDJ/(14158:14159): Ingrese la operacion deseada:
+[INFO] 22:49:45:254 Consola_MDJ/(14158:14159): ls (path_Directorio)
+[INFO] 22:49:45:255 Consola_MDJ/(14158:14159): cd (path_Directorio)
+[INFO] 22:49:45:255 Consola_MDJ/(14158:14159): md5 (path_Archivo)
+[INFO] 22:49:45:268 Consola_MDJ/(14158:14159): cat (path_Archivo)
+[INFO] 22:57:23:332 Consola_MDJ/(14370:14371): Consola File System
+[INFO] 22:57:23:332 Consola_MDJ/(14370:14371): Ingrese la operacion deseada:
+[INFO] 22:57:23:333 Consola_MDJ/(14370:14371): ls (path_Directorio)
+[INFO] 22:57:23:333 Consola_MDJ/(14370:14371): cd (path_Directorio)
+[INFO] 22:57:23:340 Consola_MDJ/(14370:14371): md5 (path_Archivo)
+[INFO] 22:57:23:341 Consola_MDJ/(14370:14371): cat (path_Archivo)
+[INFO] 17:39:08:725 Consola_MDJ/(8167:8168): Consola File System
+[INFO] 17:39:08:725 Consola_MDJ/(8167:8168): Ingrese la operacion deseada:
+[INFO] 17:39:08:725 Consola_MDJ/(8167:8168): ls (path_Directorio)
+[INFO] 17:39:08:726 Consola_MDJ/(8167:8168): cd (path_Directorio)
+[INFO] 17:39:08:732 Consola_MDJ/(8167:8168): md5 (path_Archivo)
+[INFO] 17:39:08:735 Consola_MDJ/(8167:8168): cat (path_Archivo)
+[INFO] 17:41:08:956 Consola_MDJ/(8250:8251): Consola File System
+[INFO] 17:41:08:960 Consola_MDJ/(8250:8251): Ingrese la operacion deseada:
+[INFO] 17:41:08:960 Consola_MDJ/(8250:8251): ls (path_Directorio)
+[INFO] 17:41:08:961 Consola_MDJ/(8250:8251): cd (path_Directorio)
+[INFO] 17:41:08:961 Consola_MDJ/(8250:8251): md5 (path_Archivo)
+[INFO] 17:41:08:963 Consola_MDJ/(8250:8251): cat (path_Archivo)
+[INFO] 17:49:03:160 Consola_MDJ/(8692:8693): Consola File System
+[INFO] 17:49:03:160 Consola_MDJ/(8692:8693): Ingrese la operacion deseada:
+[INFO] 17:49:03:161 Consola_MDJ/(8692:8693): ls (path_Directorio)
+[INFO] 17:49:03:161 Consola_MDJ/(8692:8693): cd (path_Directorio)
+[INFO] 17:49:03:162 Consola_MDJ/(8692:8693): md5 (path_Archivo)
+[INFO] 17:49:03:162 Consola_MDJ/(8692:8693): cat (path_Archivo)
+[INFO] 18:02:19:600 Consola_MDJ/(9307:9308): Consola File System
+[INFO] 18:02:19:601 Consola_MDJ/(9307:9308): Ingrese la operacion deseada:
+[INFO] 18:02:19:601 Consola_MDJ/(9307:9308): ls (path_Directorio)
+[INFO] 18:02:19:602 Consola_MDJ/(9307:9308): cd (path_Directorio)
+[INFO] 18:02:19:603 Consola_MDJ/(9307:9308): md5 (path_Archivo)
+[INFO] 18:02:19:613 Consola_MDJ/(9307:9308): cat (path_Archivo)
+[INFO] 18:21:58:954 Consola_MDJ/(10185:10186): Consola File System
+[INFO] 18:21:58:955 Consola_MDJ/(10185:10186): Ingrese la operacion deseada:
+[INFO] 18:21:58:955 Consola_MDJ/(10185:10186): ls (path_Directorio)
+[INFO] 18:21:58:956 Consola_MDJ/(10185:10186): cd (path_Directorio)
+[INFO] 18:21:58:960 Consola_MDJ/(10185:10186): md5 (path_Archivo)
+[INFO] 18:21:58:961 Consola_MDJ/(10185:10186): cat (path_Archivo)
+[INFO] 18:25:42:331 Consola_MDJ/(10510:10511): Consola File System
+[INFO] 18:25:42:332 Consola_MDJ/(10510:10511): Ingrese la operacion deseada:
+[INFO] 18:25:42:335 Consola_MDJ/(10510:10511): ls (path_Directorio)
+[INFO] 18:25:42:343 Consola_MDJ/(10510:10511): cd (path_Directorio)
+[INFO] 18:25:42:343 Consola_MDJ/(10510:10511): md5 (path_Archivo)
+[INFO] 18:25:42:344 Consola_MDJ/(10510:10511): cat (path_Archivo)
+[INFO] 18:30:47:840 Consola_MDJ/(10924:10925): Consola File System
+[INFO] 18:30:47:841 Consola_MDJ/(10924:10925): Ingrese la operacion deseada:
+[INFO] 18:30:47:845 Consola_MDJ/(10924:10925): ls (path_Directorio)
+[INFO] 18:30:47:846 Consola_MDJ/(10924:10925): cd (path_Directorio)
+[INFO] 18:30:47:846 Consola_MDJ/(10924:10925): md5 (path_Archivo)
+[INFO] 18:30:47:853 Consola_MDJ/(10924:10925): cat (path_Archivo)
+[INFO] 18:33:02:10 Consola_MDJ/(10924:10925): Se ingreso comando cd
+[INFO] 18:33:02:15 Consola_MDJ/(10924:10925): che..: /home/utnso/fifa-examples/fifa-entrega/Archivos/equipos/
+[INFO] 18:33:06:552 Consola_MDJ/(10924:10925): Se ingreso comando cat
+[INFO] 18:39:08:843 Consola_MDJ/(11495:11498): Consola File System
+[INFO] 18:39:08:843 Consola_MDJ/(11495:11498): Ingrese la operacion deseada:
+[INFO] 18:39:08:844 Consola_MDJ/(11495:11498): ls (path_Directorio)
+[INFO] 18:39:08:844 Consola_MDJ/(11495:11498): cd (path_Directorio)
+[INFO] 18:39:08:844 Consola_MDJ/(11495:11498): md5 (path_Archivo)
+[INFO] 18:39:08:849 Consola_MDJ/(11495:11498): cat (path_Archivo)
+[INFO] 19:01:26:677 Consola_MDJ/(12718:12719): Consola File System
+[INFO] 19:01:26:678 Consola_MDJ/(12718:12719): Ingrese la operacion deseada:
+[INFO] 19:01:26:687 Consola_MDJ/(12718:12719): ls (path_Directorio)
+[INFO] 19:01:26:687 Consola_MDJ/(12718:12719): cd (path_Directorio)
+[INFO] 19:01:26:687 Consola_MDJ/(12718:12719): md5 (path_Archivo)
+[INFO] 19:01:26:688 Consola_MDJ/(12718:12719): cat (path_Archivo)
+[INFO] 19:12:22:618 Consola_MDJ/(13297:13298): Consola File System
+[INFO] 19:12:22:620 Consola_MDJ/(13297:13298): Ingrese la operacion deseada:
+[INFO] 19:12:22:632 Consola_MDJ/(13297:13298): ls (path_Directorio)
+[INFO] 19:12:22:632 Consola_MDJ/(13297:13298): cd (path_Directorio)
+[INFO] 19:12:22:632 Consola_MDJ/(13297:13298): md5 (path_Archivo)
+[INFO] 19:12:22:633 Consola_MDJ/(13297:13298): cat (path_Archivo)
+[INFO] 19:43:52:101 Consola_MDJ/(14711:14712): Consola File System
+[INFO] 19:43:52:102 Consola_MDJ/(14711:14712): Ingrese la operacion deseada:
+[INFO] 19:43:52:104 Consola_MDJ/(14711:14712): ls (path_Directorio)
+[INFO] 19:43:52:111 Consola_MDJ/(14711:14712): cd (path_Directorio)
+[INFO] 19:43:52:119 Consola_MDJ/(14711:14712): md5 (path_Archivo)
+[INFO] 19:43:52:120 Consola_MDJ/(14711:14712): cat (path_Archivo)
+[INFO] 19:44:47:924 Consola_MDJ/(14758:14759): Consola File System
+[INFO] 19:44:47:925 Consola_MDJ/(14758:14759): Ingrese la operacion deseada:
+[INFO] 19:44:47:925 Consola_MDJ/(14758:14759): ls (path_Directorio)
+[INFO] 19:44:47:925 Consola_MDJ/(14758:14759): cd (path_Directorio)
+[INFO] 19:44:47:926 Consola_MDJ/(14758:14759): md5 (path_Archivo)
+[INFO] 19:44:47:926 Consola_MDJ/(14758:14759): cat (path_Archivo)
+[INFO] 19:45:55:405 Consola_MDJ/(14786:14787): Consola File System
+[INFO] 19:45:55:407 Consola_MDJ/(14786:14787): Ingrese la operacion deseada:
+[INFO] 19:45:55:412 Consola_MDJ/(14786:14787): ls (path_Directorio)
+[INFO] 19:45:55:413 Consola_MDJ/(14786:14787): cd (path_Directorio)
+[INFO] 19:45:55:413 Consola_MDJ/(14786:14787): md5 (path_Archivo)
+[INFO] 19:45:55:413 Consola_MDJ/(14786:14787): cat (path_Archivo)
+[INFO] 19:47:44:196 Consola_MDJ/(14857:14858): Consola File System
+[INFO] 19:47:44:196 Consola_MDJ/(14857:14858): Ingrese la operacion deseada:
+[INFO] 19:47:44:197 Consola_MDJ/(14857:14858): ls (path_Directorio)
+[INFO] 19:47:44:199 Consola_MDJ/(14857:14858): cd (path_Directorio)
+[INFO] 19:47:44:204 Consola_MDJ/(14857:14858): md5 (path_Archivo)
+[INFO] 19:47:44:205 Consola_MDJ/(14857:14858): cat (path_Archivo)
+[INFO] 19:51:44:74 Consola_MDJ/(15148:15149): Consola File System
+[INFO] 19:51:44:79 Consola_MDJ/(15148:15149): Ingrese la operacion deseada:
+[INFO] 19:51:44:88 Consola_MDJ/(15148:15149): ls (path_Directorio)
+[INFO] 19:51:44:88 Consola_MDJ/(15148:15149): cd (path_Directorio)
+[INFO] 19:51:44:88 Consola_MDJ/(15148:15149): md5 (path_Archivo)
+[INFO] 19:51:44:89 Consola_MDJ/(15148:15149): cat (path_Archivo)
+[INFO] 19:52:07:837 Consola_MDJ/(15165:15166): Consola File System
+[INFO] 19:52:07:838 Consola_MDJ/(15165:15166): Ingrese la operacion deseada:
+[INFO] 19:52:07:838 Consola_MDJ/(15165:15166): ls (path_Directorio)
+[INFO] 19:52:07:844 Consola_MDJ/(15165:15166): cd (path_Directorio)
+[INFO] 19:52:07:845 Consola_MDJ/(15165:15166): md5 (path_Archivo)
+[INFO] 19:52:07:846 Consola_MDJ/(15165:15166): cat (path_Archivo)
+[INFO] 19:53:34:520 Consola_MDJ/(15220:15221): Consola File System
+[INFO] 19:53:34:521 Consola_MDJ/(15220:15221): Ingrese la operacion deseada:
+[INFO] 19:53:34:524 Consola_MDJ/(15220:15221): ls (path_Directorio)
+[INFO] 19:53:34:533 Consola_MDJ/(15220:15221): cd (path_Directorio)
+[INFO] 19:53:34:539 Consola_MDJ/(15220:15221): md5 (path_Archivo)
+[INFO] 19:53:34:540 Consola_MDJ/(15220:15221): cat (path_Archivo)
+[INFO] 20:04:48:968 Consola_MDJ/(15733:15734): Consola File System
+[INFO] 20:04:48:969 Consola_MDJ/(15733:15734): Ingrese la operacion deseada:
+[INFO] 20:04:48:969 Consola_MDJ/(15733:15734): ls (path_Directorio)
+[INFO] 20:04:48:969 Consola_MDJ/(15733:15734): cd (path_Directorio)
+[INFO] 20:04:48:970 Consola_MDJ/(15733:15734): md5 (path_Archivo)
+[INFO] 20:04:48:970 Consola_MDJ/(15733:15734): cat (path_Archivo)
+[INFO] 20:06:02:705 Consola_MDJ/(15778:15779): Consola File System
+[INFO] 20:06:02:706 Consola_MDJ/(15778:15779): Ingrese la operacion deseada:
+[INFO] 20:06:02:708 Consola_MDJ/(15778:15779): ls (path_Directorio)
+[INFO] 20:06:02:710 Consola_MDJ/(15778:15779): cd (path_Directorio)
+[INFO] 20:06:02:710 Consola_MDJ/(15778:15779): md5 (path_Archivo)
+[INFO] 20:06:02:711 Consola_MDJ/(15778:15779): cat (path_Archivo)
+[ERROR] 20:06:42:598 Consola_MDJ/(15778:15779): No se reconocio el comando
+[INFO] 20:07:06:48 Consola_MDJ/(15809:15810): Consola File System
+[INFO] 20:07:06:49 Consola_MDJ/(15809:15810): Ingrese la operacion deseada:
+[INFO] 20:07:06:49 Consola_MDJ/(15809:15810): ls (path_Directorio)
+[INFO] 20:07:06:50 Consola_MDJ/(15809:15810): cd (path_Directorio)
+[INFO] 20:07:06:51 Consola_MDJ/(15809:15810): md5 (path_Archivo)
+[INFO] 20:07:06:51 Consola_MDJ/(15809:15810): cat (path_Archivo)
+[INFO] 20:12:31:411 Consola_MDJ/(16170:16171): Consola File System
+[INFO] 20:12:31:418 Consola_MDJ/(16170:16171): Ingrese la operacion deseada:
+[INFO] 20:12:31:421 Consola_MDJ/(16170:16171): ls (path_Directorio)
+[INFO] 20:12:31:445 Consola_MDJ/(16170:16171): cd (path_Directorio)
+[INFO] 20:12:31:446 Consola_MDJ/(16170:16171): md5 (path_Archivo)
+[INFO] 20:12:31:446 Consola_MDJ/(16170:16171): cat (path_Archivo)
+[INFO] 20:17:49:453 Consola_MDJ/(16542:16543): Consola File System
+[INFO] 20:17:49:454 Consola_MDJ/(16542:16543): Ingrese la operacion deseada:
+[INFO] 20:17:49:458 Consola_MDJ/(16542:16543): ls (path_Directorio)
+[INFO] 20:17:49:458 Consola_MDJ/(16542:16543): cd (path_Directorio)
+[INFO] 20:17:49:458 Consola_MDJ/(16542:16543): md5 (path_Archivo)
+[INFO] 20:17:49:459 Consola_MDJ/(16542:16543): cat (path_Archivo)
+[INFO] 20:18:53:138 Consola_MDJ/(16583:16584): Consola File System
+[INFO] 20:18:53:138 Consola_MDJ/(16583:16584): Ingrese la operacion deseada:
+[INFO] 20:18:53:139 Consola_MDJ/(16583:16584): ls (path_Directorio)
+[INFO] 20:18:53:139 Consola_MDJ/(16583:16584): cd (path_Directorio)
+[INFO] 20:18:53:139 Consola_MDJ/(16583:16584): md5 (path_Archivo)
+[INFO] 20:18:53:140 Consola_MDJ/(16583:16584): cat (path_Archivo)
+[INFO] 20:19:45:303 Consola_MDJ/(16583:16584): Se ingreso comando cd
+[INFO] 20:19:45:304 Consola_MDJ/(16583:16584): che..: /home/utnso/fifa-examples/fifa-entrega/Archivos/equipos/
+[INFO] 20:19:51:74 Consola_MDJ/(16583:16584): Se ingreso comando cat
+[INFO] 20:22:20:914 Consola_MDJ/(16583:16584): Se ingreso comando cat
+[INFO] 20:23:31:820 Consola_MDJ/(16923:16924): Consola File System
+[INFO] 20:23:31:820 Consola_MDJ/(16923:16924): Ingrese la operacion deseada:
+[INFO] 20:23:31:821 Consola_MDJ/(16923:16924): ls (path_Directorio)
+[INFO] 20:23:31:821 Consola_MDJ/(16923:16924): cd (path_Directorio)
+[INFO] 20:23:31:821 Consola_MDJ/(16923:16924): md5 (path_Archivo)
+[INFO] 20:23:31:822 Consola_MDJ/(16923:16924): cat (path_Archivo)
+[INFO] 20:25:59:785 Consola_MDJ/(17056:17061): Consola File System
+[INFO] 20:25:59:785 Consola_MDJ/(17056:17061): Ingrese la operacion deseada:
+[INFO] 20:25:59:785 Consola_MDJ/(17056:17061): ls (path_Directorio)
+[INFO] 20:25:59:792 Consola_MDJ/(17056:17061): cd (path_Directorio)
+[INFO] 20:25:59:794 Consola_MDJ/(17056:17061): md5 (path_Archivo)
+[INFO] 20:25:59:798 Consola_MDJ/(17056:17061): cat (path_Archivo)
+[INFO] 20:26:46:154 Consola_MDJ/(17121:17122): Consola File System
+[INFO] 20:26:46:158 Consola_MDJ/(17121:17122): Ingrese la operacion deseada:
+[INFO] 20:26:46:160 Consola_MDJ/(17121:17122): ls (path_Directorio)
+[INFO] 20:26:46:160 Consola_MDJ/(17121:17122): cd (path_Directorio)
+[INFO] 20:26:46:163 Consola_MDJ/(17121:17122): md5 (path_Archivo)
+[INFO] 20:26:46:164 Consola_MDJ/(17121:17122): cat (path_Archivo)
+[INFO] 20:27:47:300 Consola_MDJ/(17173:17174): Consola File System
+[INFO] 20:27:47:306 Consola_MDJ/(17173:17174): Ingrese la operacion deseada:
+[INFO] 20:27:47:319 Consola_MDJ/(17173:17174): ls (path_Directorio)
+[INFO] 20:27:47:320 Consola_MDJ/(17173:17174): cd (path_Directorio)
+[INFO] 20:27:47:320 Consola_MDJ/(17173:17174): md5 (path_Archivo)
+[INFO] 20:27:47:320 Consola_MDJ/(17173:17174): cat (path_Archivo)
+[INFO] 20:31:23:159 Consola_MDJ/(17301:17302): Consola File System
+[INFO] 20:31:23:163 Consola_MDJ/(17301:17302): Ingrese la operacion deseada:
+[INFO] 20:31:23:164 Consola_MDJ/(17301:17302): ls (path_Directorio)
+[INFO] 20:31:23:164 Consola_MDJ/(17301:17302): cd (path_Directorio)
+[INFO] 20:31:23:165 Consola_MDJ/(17301:17302): md5 (path_Archivo)
+[INFO] 20:31:23:165 Consola_MDJ/(17301:17302): cat (path_Archivo)
+[INFO] 20:34:56:479 Consola_MDJ/(17583:17584): Consola File System
+[INFO] 20:34:56:485 Consola_MDJ/(17583:17584): Ingrese la operacion deseada:
+[INFO] 20:34:56:486 Consola_MDJ/(17583:17584): ls (path_Directorio)
+[INFO] 20:34:56:489 Consola_MDJ/(17583:17584): cd (path_Directorio)
+[INFO] 20:34:56:490 Consola_MDJ/(17583:17584): md5 (path_Archivo)
+[INFO] 20:34:56:491 Consola_MDJ/(17583:17584): cat (path_Archivo)
+[INFO] 20:35:52:906 Consola_MDJ/(17633:17634): Consola File System
+[INFO] 20:35:52:909 Consola_MDJ/(17633:17634): Ingrese la operacion deseada:
+[INFO] 20:35:52:921 Consola_MDJ/(17633:17634): ls (path_Directorio)
+[INFO] 20:35:52:921 Consola_MDJ/(17633:17634): cd (path_Directorio)
+[INFO] 20:35:52:923 Consola_MDJ/(17633:17634): md5 (path_Archivo)
+[INFO] 20:35:52:923 Consola_MDJ/(17633:17634): cat (path_Archivo)
+[INFO] 20:36:50:703 Consola_MDJ/(17676:17677): Consola File System
+[INFO] 20:36:50:703 Consola_MDJ/(17676:17677): Ingrese la operacion deseada:
+[INFO] 20:36:50:704 Consola_MDJ/(17676:17677): ls (path_Directorio)
+[INFO] 20:36:50:704 Consola_MDJ/(17676:17677): cd (path_Directorio)
+[INFO] 20:36:50:704 Consola_MDJ/(17676:17677): md5 (path_Archivo)
+[INFO] 20:36:50:705 Consola_MDJ/(17676:17677): cat (path_Archivo)
+[INFO] 20:38:03:476 Consola_MDJ/(17676:17677): Se ingreso comando cd
+[INFO] 20:38:03:480 Consola_MDJ/(17676:17677): che..: /home/utnso/fifa-examples/fifa-entrega/Archivos/resultados/
+[INFO] 20:38:06:688 Consola_MDJ/(17676:17677): Se ingreso comando cat
+[INFO] 20:38:25:725 Consola_MDJ/(17676:17677): Se ingreso comando cat
+[INFO] 20:40:18:919 Consola_MDJ/(17929:17930): Consola File System
+[INFO] 20:40:18:920 Consola_MDJ/(17929:17930): Ingrese la operacion deseada:
+[INFO] 20:40:18:921 Consola_MDJ/(17929:17930): ls (path_Directorio)
+[INFO] 20:40:18:921 Consola_MDJ/(17929:17930): cd (path_Directorio)
+[INFO] 20:40:18:925 Consola_MDJ/(17929:17930): md5 (path_Archivo)
+[INFO] 20:40:18:931 Consola_MDJ/(17929:17930): cat (path_Archivo)
+[INFO] 20:40:38:75 Consola_MDJ/(17939:17940): Consola File System
+[INFO] 20:40:38:79 Consola_MDJ/(17939:17940): Ingrese la operacion deseada:
+[INFO] 20:40:38:79 Consola_MDJ/(17939:17940): ls (path_Directorio)
+[INFO] 20:40:38:90 Consola_MDJ/(17939:17940): cd (path_Directorio)
+[INFO] 20:40:38:91 Consola_MDJ/(17939:17940): md5 (path_Archivo)
+[INFO] 20:40:38:91 Consola_MDJ/(17939:17940): cat (path_Archivo)
+[INFO] 20:41:50:706 Consola_MDJ/(18010:18013): Consola File System
+[INFO] 20:41:50:712 Consola_MDJ/(18010:18013): Ingrese la operacion deseada:
+[INFO] 20:41:50:713 Consola_MDJ/(18010:18013): ls (path_Directorio)
+[INFO] 20:41:50:713 Consola_MDJ/(18010:18013): cd (path_Directorio)
+[INFO] 20:41:50:713 Consola_MDJ/(18010:18013): md5 (path_Archivo)
+[INFO] 20:41:50:714 Consola_MDJ/(18010:18013): cat (path_Archivo)
+[INFO] 20:49:43:448 Consola_MDJ/(18497:18498): Consola File System
+[INFO] 20:49:43:452 Consola_MDJ/(18497:18498): Ingrese la operacion deseada:
+[INFO] 20:49:43:453 Consola_MDJ/(18497:18498): ls (path_Directorio)
+[INFO] 20:49:43:453 Consola_MDJ/(18497:18498): cd (path_Directorio)
+[INFO] 20:49:43:464 Consola_MDJ/(18497:18498): md5 (path_Archivo)
+[INFO] 20:49:43:465 Consola_MDJ/(18497:18498): cat (path_Archivo)
+[INFO] 21:03:25:228 Consola_MDJ/(19274:19275): Consola File System
+[INFO] 21:03:25:228 Consola_MDJ/(19274:19275): Ingrese la operacion deseada:
+[INFO] 21:03:25:236 Consola_MDJ/(19274:19275): ls (path_Directorio)
+[INFO] 21:03:25:237 Consola_MDJ/(19274:19275): cd (path_Directorio)
+[INFO] 21:03:25:238 Consola_MDJ/(19274:19275): md5 (path_Archivo)
+[INFO] 21:03:25:238 Consola_MDJ/(19274:19275): cat (path_Archivo)
+[INFO] 21:10:30:524 Consola_MDJ/(19427:19428): Consola File System
+[INFO] 21:10:30:525 Consola_MDJ/(19427:19428): Ingrese la operacion deseada:
+[INFO] 21:10:30:525 Consola_MDJ/(19427:19428): ls (path_Directorio)
+[INFO] 21:10:30:525 Consola_MDJ/(19427:19428): cd (path_Directorio)
+[INFO] 21:10:30:526 Consola_MDJ/(19427:19428): md5 (path_Archivo)
+[INFO] 21:10:30:527 Consola_MDJ/(19427:19428): cat (path_Archivo)
+[INFO] 23:08:44:307 Consola_MDJ/(25288:25289): Consola File System
+[INFO] 23:08:44:308 Consola_MDJ/(25288:25289): Ingrese la operacion deseada:
+[INFO] 23:08:44:310 Consola_MDJ/(25288:25289): ls (path_Directorio)
+[INFO] 23:08:44:318 Consola_MDJ/(25288:25289): cd (path_Directorio)
+[INFO] 23:08:44:318 Consola_MDJ/(25288:25289): md5 (path_Archivo)
+[INFO] 23:08:44:324 Consola_MDJ/(25288:25289): cat (path_Archivo)
+[INFO] 23:26:06:815 Consola_MDJ/(26234:26239): Consola File System
+[INFO] 23:26:06:815 Consola_MDJ/(26234:26239): Ingrese la operacion deseada:
+[INFO] 23:26:06:816 Consola_MDJ/(26234:26239): ls (path_Directorio)
+[INFO] 23:26:06:817 Consola_MDJ/(26234:26239): cd (path_Directorio)
+[INFO] 23:26:06:817 Consola_MDJ/(26234:26239): md5 (path_Archivo)
+[INFO] 23:26:06:818 Consola_MDJ/(26234:26239): cat (path_Archivo)
+[INFO] 23:26:55:520 Consola_MDJ/(26423:26424): Consola File System
+[INFO] 23:26:55:520 Consola_MDJ/(26423:26424): Ingrese la operacion deseada:
+[INFO] 23:26:55:520 Consola_MDJ/(26423:26424): ls (path_Directorio)
+[INFO] 23:26:55:521 Consola_MDJ/(26423:26424): cd (path_Directorio)
+[INFO] 23:26:55:530 Consola_MDJ/(26423:26424): md5 (path_Archivo)
+[INFO] 23:26:55:540 Consola_MDJ/(26423:26424): cat (path_Archivo)
+[INFO] 23:27:39:443 Consola_MDJ/(26462:26463): Consola File System
+[INFO] 23:27:39:445 Consola_MDJ/(26462:26463): Ingrese la operacion deseada:
+[INFO] 23:27:39:446 Consola_MDJ/(26462:26463): ls (path_Directorio)
+[INFO] 23:27:39:446 Consola_MDJ/(26462:26463): cd (path_Directorio)
+[INFO] 23:27:39:452 Consola_MDJ/(26462:26463): md5 (path_Archivo)
+[INFO] 23:27:39:453 Consola_MDJ/(26462:26463): cat (path_Archivo)
+[INFO] 23:36:13:559 Consola_MDJ/(26809:26810): Consola File System
+[INFO] 23:36:13:559 Consola_MDJ/(26809:26810): Ingrese la operacion deseada:
+[INFO] 23:36:13:560 Consola_MDJ/(26809:26810): ls (path_Directorio)
+[INFO] 23:36:13:560 Consola_MDJ/(26809:26810): cd (path_Directorio)
+[INFO] 23:36:13:560 Consola_MDJ/(26809:26810): md5 (path_Archivo)
+[INFO] 23:36:13:561 Consola_MDJ/(26809:26810): cat (path_Archivo)
+[INFO] 23:43:19:919 Consola_MDJ/(26987:26988): Consola File System
+[INFO] 23:43:19:920 Consola_MDJ/(26987:26988): Ingrese la operacion deseada:
+[INFO] 23:43:19:921 Consola_MDJ/(26987:26988): ls (path_Directorio)
+[INFO] 23:43:19:923 Consola_MDJ/(26987:26988): cd (path_Directorio)
+[INFO] 23:43:19:933 Consola_MDJ/(26987:26988): md5 (path_Archivo)
+[INFO] 23:43:19:934 Consola_MDJ/(26987:26988): cat (path_Archivo)
+[INFO] 23:50:13:107 Consola_MDJ/(27566:27567): Consola File System
+[INFO] 23:50:13:107 Consola_MDJ/(27566:27567): Ingrese la operacion deseada:
+[INFO] 23:50:13:107 Consola_MDJ/(27566:27567): ls (path_Directorio)
+[INFO] 23:50:13:108 Consola_MDJ/(27566:27567): cd (path_Directorio)
+[INFO] 23:50:13:108 Consola_MDJ/(27566:27567): md5 (path_Archivo)
+[INFO] 23:50:13:108 Consola_MDJ/(27566:27567): cat (path_Archivo)
+[INFO] 16:00:00:95 Consola_MDJ/(6698:6699): Consola File System
+[INFO] 16:00:00:125 Consola_MDJ/(6698:6699): Ingrese la operacion deseada:
+[INFO] 16:00:00:125 Consola_MDJ/(6698:6699): ls (path_Directorio)
+[INFO] 16:00:00:125 Consola_MDJ/(6698:6699): cd (path_Directorio)
+[INFO] 16:00:00:126 Consola_MDJ/(6698:6699): md5 (path_Archivo)
+[INFO] 16:00:00:127 Consola_MDJ/(6698:6699): cat (path_Archivo)
+[INFO] 16:06:07:938 Consola_MDJ/(7048:7049): Consola File System
+[INFO] 16:06:07:938 Consola_MDJ/(7048:7049): Ingrese la operacion deseada:
+[INFO] 16:06:07:938 Consola_MDJ/(7048:7049): ls (path_Directorio)
+[INFO] 16:06:07:947 Consola_MDJ/(7048:7049): cd (path_Directorio)
+[INFO] 16:06:07:947 Consola_MDJ/(7048:7049): md5 (path_Archivo)
+[INFO] 16:06:07:949 Consola_MDJ/(7048:7049): cat (path_Archivo)
+[INFO] 16:10:15:249 Consola_MDJ/(7048:7049): Se ingreso comando cd
+[INFO] 16:10:15:254 Consola_MDJ/(7048:7049): che..: /home/utnso/fifa-examples/fifa-entrega/Archivos/equipos/
+[INFO] 16:10:19:413 Consola_MDJ/(7048:7049): Se ingreso comando cat
+[INFO] 16:10:26:968 Consola_MDJ/(7048:7049): Se ingreso comando md5
+[INFO] 16:13:39:740 Consola_MDJ/(7048:7049): Se ingreso comando cat
+[INFO] 16:13:47:151 Consola_MDJ/(7048:7049): Se ingreso comando md5
+[INFO] 16:16:32:695 Consola_MDJ/(7440:7441): Consola File System
+[INFO] 16:16:32:696 Consola_MDJ/(7440:7441): Ingrese la operacion deseada:
+[INFO] 16:16:32:709 Consola_MDJ/(7440:7441): ls (path_Directorio)
+[INFO] 16:16:32:709 Consola_MDJ/(7440:7441): cd (path_Directorio)
+[INFO] 16:16:32:710 Consola_MDJ/(7440:7441): md5 (path_Archivo)
+[INFO] 16:16:32:710 Consola_MDJ/(7440:7441): cat (path_Archivo)
+[INFO] 16:18:38:455 Consola_MDJ/(7440:7441): Se ingreso comando cd
+[INFO] 16:18:38:460 Consola_MDJ/(7440:7441): che..: /home/utnso/fifa-examples/fifa-entrega/Archivos/equipos/
+[INFO] 16:18:41:444 Consola_MDJ/(7440:7441): Se ingreso comando cat
+[INFO] 16:25:03:721 Consola_MDJ/(7440:7441): Se ingreso comando cat
+[INFO] 16:32:58:867 Consola_MDJ/(8235:8236): Consola File System
+[INFO] 16:32:58:867 Consola_MDJ/(8235:8236): Ingrese la operacion deseada:
+[INFO] 16:32:58:867 Consola_MDJ/(8235:8236): ls (path_Directorio)
+[INFO] 16:32:58:868 Consola_MDJ/(8235:8236): cd (path_Directorio)
+[INFO] 16:32:58:868 Consola_MDJ/(8235:8236): md5 (path_Archivo)
+[INFO] 16:32:58:869 Consola_MDJ/(8235:8236): cat (path_Archivo)
+[ERROR] 16:33:36:183 Consola_MDJ/(8235:8236): No se reconocio el comando
+[INFO] 16:34:31:750 Consola_MDJ/(8309:8310): Consola File System
+[INFO] 16:34:31:750 Consola_MDJ/(8309:8310): Ingrese la operacion deseada:
+[INFO] 16:34:31:750 Consola_MDJ/(8309:8310): ls (path_Directorio)
+[INFO] 16:34:31:751 Consola_MDJ/(8309:8310): cd (path_Directorio)
+[INFO] 16:34:31:754 Consola_MDJ/(8309:8310): md5 (path_Archivo)
+[INFO] 16:34:31:754 Consola_MDJ/(8309:8310): cat (path_Archivo)
+[INFO] 16:46:32:552 Consola_MDJ/(8973:8974): Consola File System
+[INFO] 16:46:32:553 Consola_MDJ/(8973:8974): Ingrese la operacion deseada:
+[INFO] 16:46:32:553 Consola_MDJ/(8973:8974): ls (path_Directorio)
+[INFO] 16:46:32:554 Consola_MDJ/(8973:8974): cd (path_Directorio)
+[INFO] 16:46:32:554 Consola_MDJ/(8973:8974): md5 (path_Archivo)
+[INFO] 16:46:32:555 Consola_MDJ/(8973:8974): cat (path_Archivo)
+[INFO] 16:48:27:832 Consola_MDJ/(8973:8974): Se ingreso comando cd
+[INFO] 16:48:27:834 Consola_MDJ/(8973:8974): che..: /home/utnso/fifa-examples/fifa-entrega/Archivos/resultados/
+[INFO] 16:48:36:934 Consola_MDJ/(8973:8974): Se ingreso comando cat
+[INFO] 17:38:58:637 Consola_MDJ/(11047:11048): Consola File System
+[INFO] 17:38:58:637 Consola_MDJ/(11047:11048): Ingrese la operacion deseada:
+[INFO] 17:38:58:638 Consola_MDJ/(11047:11048): ls (path_Directorio)
+[INFO] 17:38:58:639 Consola_MDJ/(11047:11048): cd (path_Directorio)
+[INFO] 17:38:58:645 Consola_MDJ/(11047:11048): md5 (path_Archivo)
+[INFO] 17:38:58:645 Consola_MDJ/(11047:11048): cat (path_Archivo)
+[INFO] 19:34:37:159 Consola_MDJ/(17525:17526): Consola File System
+[INFO] 19:34:37:160 Consola_MDJ/(17525:17526): Ingrese la operacion deseada:
+[INFO] 19:34:37:160 Consola_MDJ/(17525:17526): ls (path_Directorio)
+[INFO] 19:34:37:161 Consola_MDJ/(17525:17526): cd (path_Directorio)
+[INFO] 19:34:37:162 Consola_MDJ/(17525:17526): md5 (path_Archivo)
+[INFO] 19:34:37:169 Consola_MDJ/(17525:17526): cat (path_Archivo)
+[INFO] 19:35:54:237 Consola_MDJ/(17609:17610): Consola File System
+[INFO] 19:35:54:238 Consola_MDJ/(17609:17610): Ingrese la operacion deseada:
+[INFO] 19:35:54:238 Consola_MDJ/(17609:17610): ls (path_Directorio)
+[INFO] 19:35:54:239 Consola_MDJ/(17609:17610): cd (path_Directorio)
+[INFO] 19:35:54:246 Consola_MDJ/(17609:17610): md5 (path_Archivo)
+[INFO] 19:35:54:247 Consola_MDJ/(17609:17610): cat (path_Archivo)
+[INFO] 19:38:43:985 Consola_MDJ/(17670:17671): Consola File System
+[INFO] 19:38:43:986 Consola_MDJ/(17670:17671): Ingrese la operacion deseada:
+[INFO] 19:38:43:990 Consola_MDJ/(17670:17671): ls (path_Directorio)
+[INFO] 19:38:43:991 Consola_MDJ/(17670:17671): cd (path_Directorio)
+[INFO] 19:38:43:991 Consola_MDJ/(17670:17671): md5 (path_Archivo)
+[INFO] 19:38:43:991 Consola_MDJ/(17670:17671): cat (path_Archivo)
+[INFO] 19:40:29:744 Consola_MDJ/(17732:17733): Consola File System
+[INFO] 19:40:29:744 Consola_MDJ/(17732:17733): Ingrese la operacion deseada:
+[INFO] 19:40:29:745 Consola_MDJ/(17732:17733): ls (path_Directorio)
+[INFO] 19:40:29:747 Consola_MDJ/(17732:17733): cd (path_Directorio)
+[INFO] 19:40:29:747 Consola_MDJ/(17732:17733): md5 (path_Archivo)
+[INFO] 19:40:29:748 Consola_MDJ/(17732:17733): cat (path_Archivo)
+[INFO] 19:44:20:581 Consola_MDJ/(17868:17869): Consola File System
+[INFO] 19:44:20:594 Consola_MDJ/(17868:17869): Ingrese la operacion deseada:
+[INFO] 19:44:20:597 Consola_MDJ/(17868:17869): ls (path_Directorio)
+[INFO] 19:44:20:605 Consola_MDJ/(17868:17869): cd (path_Directorio)
+[INFO] 19:44:20:609 Consola_MDJ/(17868:17869): md5 (path_Archivo)
+[INFO] 19:44:20:616 Consola_MDJ/(17868:17869): cat (path_Archivo)
+[INFO] 19:48:03:449 Consola_MDJ/(18038:18039): Consola File System
+[INFO] 19:48:03:461 Consola_MDJ/(18038:18039): Ingrese la operacion deseada:
+[INFO] 19:48:03:462 Consola_MDJ/(18038:18039): ls (path_Directorio)
+[INFO] 19:48:03:465 Consola_MDJ/(18038:18039): cd (path_Directorio)
+[INFO] 19:48:03:466 Consola_MDJ/(18038:18039): md5 (path_Archivo)
+[INFO] 19:48:03:468 Consola_MDJ/(18038:18039): cat (path_Archivo)
+[INFO] 19:52:58:557 Consola_MDJ/(18411:18412): Consola File System
+[INFO] 19:52:58:557 Consola_MDJ/(18411:18412): Ingrese la operacion deseada:
+[INFO] 19:52:58:558 Consola_MDJ/(18411:18412): ls (path_Directorio)
+[INFO] 19:52:58:560 Consola_MDJ/(18411:18412): cd (path_Directorio)
+[INFO] 19:52:58:563 Consola_MDJ/(18411:18412): md5 (path_Archivo)
+[INFO] 19:52:58:564 Consola_MDJ/(18411:18412): cat (path_Archivo)
+[INFO] 19:54:33:608 Consola_MDJ/(18411:18412): Se ingreso comando cd
+[INFO] 19:54:33:612 Consola_MDJ/(18411:18412): che..: /home/utnso/fifa-examples/fifa-entrega/Archivos/equipos/
+[INFO] 19:54:38:391 Consola_MDJ/(18411:18412): Se ingreso comando cat
+[INFO] 19:56:50:60 Consola_MDJ/(18411:18412): Se ingreso comando cat
+[INFO] 19:57:54:981 Consola_MDJ/(18733:18734): Consola File System
+[INFO] 19:57:54:981 Consola_MDJ/(18733:18734): Ingrese la operacion deseada:
+[INFO] 19:57:54:982 Consola_MDJ/(18733:18734): ls (path_Directorio)
+[INFO] 19:57:54:982 Consola_MDJ/(18733:18734): cd (path_Directorio)
+[INFO] 19:57:54:983 Consola_MDJ/(18733:18734): md5 (path_Archivo)
+[INFO] 19:57:54:987 Consola_MDJ/(18733:18734): cat (path_Archivo)
+[INFO] 20:02:18:689 Consola_MDJ/(18937:18938): Consola File System
+[INFO] 20:02:18:689 Consola_MDJ/(18937:18938): Ingrese la operacion deseada:
+[INFO] 20:02:18:690 Consola_MDJ/(18937:18938): ls (path_Directorio)
+[INFO] 20:02:18:690 Consola_MDJ/(18937:18938): cd (path_Directorio)
+[INFO] 20:02:18:690 Consola_MDJ/(18937:18938): md5 (path_Archivo)
+[INFO] 20:02:18:691 Consola_MDJ/(18937:18938): cat (path_Archivo)
+[INFO] 20:06:21:362 Consola_MDJ/(19263:19264): Consola File System
+[INFO] 20:06:21:363 Consola_MDJ/(19263:19264): Ingrese la operacion deseada:
+[INFO] 20:06:21:370 Consola_MDJ/(19263:19264): ls (path_Directorio)
+[INFO] 20:06:21:371 Consola_MDJ/(19263:19264): cd (path_Directorio)
+[INFO] 20:06:21:371 Consola_MDJ/(19263:19264): md5 (path_Archivo)
+[INFO] 20:06:21:371 Consola_MDJ/(19263:19264): cat (path_Archivo)
+[INFO] 20:15:18:612 Consola_MDJ/(19640:19641): Consola File System
+[INFO] 20:15:18:612 Consola_MDJ/(19640:19641): Ingrese la operacion deseada:
+[INFO] 20:15:18:613 Consola_MDJ/(19640:19641): ls (path_Directorio)
+[INFO] 20:15:18:614 Consola_MDJ/(19640:19641): cd (path_Directorio)
+[INFO] 20:15:18:614 Consola_MDJ/(19640:19641): md5 (path_Archivo)
+[INFO] 20:15:18:615 Consola_MDJ/(19640:19641): cat (path_Archivo)
+[INFO] 20:25:13:12 Consola_MDJ/(19907:19908): Consola File System
+[INFO] 20:25:13:13 Consola_MDJ/(19907:19908): Ingrese la operacion deseada:
+[INFO] 20:25:13:13 Consola_MDJ/(19907:19908): ls (path_Directorio)
+[INFO] 20:25:13:14 Consola_MDJ/(19907:19908): cd (path_Directorio)
+[INFO] 20:25:13:14 Consola_MDJ/(19907:19908): md5 (path_Archivo)
+[INFO] 20:25:13:16 Consola_MDJ/(19907:19908): cat (path_Archivo)
+[INFO] 20:33:29:844 Consola_MDJ/(20428:20429): Consola File System
+[INFO] 20:33:29:845 Consola_MDJ/(20428:20429): Ingrese la operacion deseada:
+[INFO] 20:33:29:855 Consola_MDJ/(20428:20429): ls (path_Directorio)
+[INFO] 20:33:29:855 Consola_MDJ/(20428:20429): cd (path_Directorio)
+[INFO] 20:33:29:856 Consola_MDJ/(20428:20429): md5 (path_Archivo)
+[INFO] 20:33:29:856 Consola_MDJ/(20428:20429): cat (path_Archivo)
+[INFO] 20:34:42:644 Consola_MDJ/(20428:20429): Se ingreso comando cd
+[INFO] 20:34:42:646 Consola_MDJ/(20428:20429): che..: /home/utnso/fifa-examples/fifa-entrega/Archivos/resultados/
+[INFO] 20:34:50:38 Consola_MDJ/(20428:20429): Se ingreso comando cat
+[INFO] 20:48:41:376 Consola_MDJ/(21452:21453): Consola File System
+[INFO] 20:48:41:380 Consola_MDJ/(21452:21453): Ingrese la operacion deseada:
+[INFO] 20:48:41:396 Consola_MDJ/(21452:21453): ls (path_Directorio)
+[INFO] 20:48:41:407 Consola_MDJ/(21452:21453): cd (path_Directorio)
+[INFO] 20:48:41:409 Consola_MDJ/(21452:21453): md5 (path_Archivo)
+[INFO] 20:48:41:409 Consola_MDJ/(21452:21453): cat (path_Archivo)
+[INFO] 20:50:52:792 Consola_MDJ/(21686:21687): Consola File System
+[INFO] 20:50:52:792 Consola_MDJ/(21686:21687): Ingrese la operacion deseada:
+[INFO] 20:50:52:793 Consola_MDJ/(21686:21687): ls (path_Directorio)
+[INFO] 20:50:52:793 Consola_MDJ/(21686:21687): cd (path_Directorio)
+[INFO] 20:50:52:794 Consola_MDJ/(21686:21687): md5 (path_Archivo)
+[INFO] 20:50:52:794 Consola_MDJ/(21686:21687): cat (path_Archivo)
+[INFO] 20:55:44:199 Consola_MDJ/(21971:21972): Consola File System
+[INFO] 20:55:44:200 Consola_MDJ/(21971:21972): Ingrese la operacion deseada:
+[INFO] 20:55:44:200 Consola_MDJ/(21971:21972): ls (path_Directorio)
+[INFO] 20:55:44:203 Consola_MDJ/(21971:21972): cd (path_Directorio)
+[INFO] 20:55:44:207 Consola_MDJ/(21971:21972): md5 (path_Archivo)
+[INFO] 20:55:44:208 Consola_MDJ/(21971:21972): cat (path_Archivo)
+[INFO] 21:07:21:846 Consola_MDJ/(22783:22784): Consola File System
+[INFO] 21:07:21:846 Consola_MDJ/(22783:22784): Ingrese la operacion deseada:
+[INFO] 21:07:21:849 Consola_MDJ/(22783:22784): ls (path_Directorio)
+[INFO] 21:07:21:849 Consola_MDJ/(22783:22784): cd (path_Directorio)
+[INFO] 21:07:21:850 Consola_MDJ/(22783:22784): md5 (path_Archivo)
+[INFO] 21:07:21:854 Consola_MDJ/(22783:22784): cat (path_Archivo)
+[INFO] 21:09:53:60 Consola_MDJ/(22962:22963): Consola File System
+[INFO] 21:09:53:64 Consola_MDJ/(22962:22963): Ingrese la operacion deseada:
+[INFO] 21:09:53:65 Consola_MDJ/(22962:22963): ls (path_Directorio)
+[INFO] 21:09:53:66 Consola_MDJ/(22962:22963): cd (path_Directorio)
+[INFO] 21:09:53:69 Consola_MDJ/(22962:22963): md5 (path_Archivo)
+[INFO] 21:09:53:75 Consola_MDJ/(22962:22963): cat (path_Archivo)
+[INFO] 21:10:58:465 Consola_MDJ/(22996:22997): Consola File System
+[INFO] 21:10:58:466 Consola_MDJ/(22996:22997): Ingrese la operacion deseada:
+[INFO] 21:10:58:466 Consola_MDJ/(22996:22997): ls (path_Directorio)
+[INFO] 21:10:58:468 Consola_MDJ/(22996:22997): cd (path_Directorio)
+[INFO] 21:10:58:473 Consola_MDJ/(22996:22997): md5 (path_Archivo)
+[INFO] 21:10:58:475 Consola_MDJ/(22996:22997): cat (path_Archivo)
+[INFO] 21:16:22:173 Consola_MDJ/(23205:23206): Consola File System
+[INFO] 21:16:22:173 Consola_MDJ/(23205:23206): Ingrese la operacion deseada:
+[INFO] 21:16:22:173 Consola_MDJ/(23205:23206): ls (path_Directorio)
+[INFO] 21:16:22:174 Consola_MDJ/(23205:23206): cd (path_Directorio)
+[INFO] 21:16:22:174 Consola_MDJ/(23205:23206): md5 (path_Archivo)
+[INFO] 21:16:22:180 Consola_MDJ/(23205:23206): cat (path_Archivo)
+[INFO] 21:25:23:968 Consola_MDJ/(23734:23735): Consola File System
+[INFO] 21:25:23:982 Consola_MDJ/(23734:23735): Ingrese la operacion deseada:
+[INFO] 21:25:23:988 Consola_MDJ/(23734:23735): ls (path_Directorio)
+[INFO] 21:25:23:988 Consola_MDJ/(23734:23735): cd (path_Directorio)
+[INFO] 21:25:23:989 Consola_MDJ/(23734:23735): md5 (path_Archivo)
+[INFO] 21:25:23:989 Consola_MDJ/(23734:23735): cat (path_Archivo)
+[INFO] 21:37:55:37 Consola_MDJ/(24419:24420): Consola File System
+[INFO] 21:37:55:45 Consola_MDJ/(24419:24420): Ingrese la operacion deseada:
+[INFO] 21:37:55:45 Consola_MDJ/(24419:24420): ls (path_Directorio)
+[INFO] 21:37:55:45 Consola_MDJ/(24419:24420): cd (path_Directorio)
+[INFO] 21:37:55:46 Consola_MDJ/(24419:24420): md5 (path_Archivo)
+[INFO] 21:37:55:46 Consola_MDJ/(24419:24420): cat (path_Archivo)
+[INFO] 22:21:54:450 Consola_MDJ/(26085:26086): Consola File System
+[INFO] 22:21:54:469 Consola_MDJ/(26085:26086): Ingrese la operacion deseada:
+[INFO] 22:21:54:470 Consola_MDJ/(26085:26086): ls (path_Directorio)
+[INFO] 22:21:54:470 Consola_MDJ/(26085:26086): cd (path_Directorio)
+[INFO] 22:21:54:470 Consola_MDJ/(26085:26086): md5 (path_Archivo)
+[INFO] 22:21:54:471 Consola_MDJ/(26085:26086): cat (path_Archivo)
+[INFO] 22:29:45:706 Consola_MDJ/(26626:26627): Consola File System
+[INFO] 22:29:45:707 Consola_MDJ/(26626:26627): Ingrese la operacion deseada:
+[INFO] 22:29:45:708 Consola_MDJ/(26626:26627): ls (path_Directorio)
+[INFO] 22:29:45:709 Consola_MDJ/(26626:26627): cd (path_Directorio)
+[INFO] 22:29:45:709 Consola_MDJ/(26626:26627): md5 (path_Archivo)
+[INFO] 22:29:45:713 Consola_MDJ/(26626:26627): cat (path_Archivo)
+[INFO] 22:43:19:926 Consola_MDJ/(27080:27081): Consola File System
+[INFO] 22:43:19:929 Consola_MDJ/(27080:27081): Ingrese la operacion deseada:
+[INFO] 22:43:19:929 Consola_MDJ/(27080:27081): ls (path_Directorio)
+[INFO] 22:43:19:930 Consola_MDJ/(27080:27081): cd (path_Directorio)
+[INFO] 22:43:19:934 Consola_MDJ/(27080:27081): md5 (path_Archivo)
+[INFO] 22:43:19:934 Consola_MDJ/(27080:27081): cat (path_Archivo)
+[INFO] 23:38:30:389 Consola_MDJ/(28289:28290): Consola File System
+[INFO] 23:38:30:396 Consola_MDJ/(28289:28290): Ingrese la operacion deseada:
+[INFO] 23:38:30:396 Consola_MDJ/(28289:28290): ls (path_Directorio)
+[INFO] 23:38:30:397 Consola_MDJ/(28289:28290): cd (path_Directorio)
+[INFO] 23:38:30:397 Consola_MDJ/(28289:28290): md5 (path_Archivo)
+[INFO] 23:38:30:412 Consola_MDJ/(28289:28290): cat (path_Archivo)
+[INFO] 23:40:57:892 Consola_MDJ/(28401:28402): Consola File System
+[INFO] 23:40:57:893 Consola_MDJ/(28401:28402): Ingrese la operacion deseada:
+[INFO] 23:40:57:899 Consola_MDJ/(28401:28402): ls (path_Directorio)
+[INFO] 23:40:57:905 Consola_MDJ/(28401:28402): cd (path_Directorio)
+[INFO] 23:40:57:906 Consola_MDJ/(28401:28402): md5 (path_Archivo)
+[INFO] 23:40:57:906 Consola_MDJ/(28401:28402): cat (path_Archivo)
+[INFO] 23:53:46:955 Consola_MDJ/(28986:28987): Consola File System
+[INFO] 23:53:46:959 Consola_MDJ/(28986:28987): Ingrese la operacion deseada:
+[INFO] 23:53:46:960 Consola_MDJ/(28986:28987): ls (path_Directorio)
+[INFO] 23:53:46:961 Consola_MDJ/(28986:28987): cd (path_Directorio)
+[INFO] 23:53:46:962 Consola_MDJ/(28986:28987): md5 (path_Archivo)
+[INFO] 23:53:46:972 Consola_MDJ/(28986:28987): cat (path_Archivo)
+[INFO] 23:57:44:187 Consola_MDJ/(29156:29157): Consola File System
+[INFO] 23:57:44:188 Consola_MDJ/(29156:29157): Ingrese la operacion deseada:
+[INFO] 23:57:44:195 Consola_MDJ/(29156:29157): ls (path_Directorio)
+[INFO] 23:57:44:198 Consola_MDJ/(29156:29157): cd (path_Directorio)
+[INFO] 23:57:44:199 Consola_MDJ/(29156:29157): md5 (path_Archivo)
+[INFO] 23:57:44:225 Consola_MDJ/(29156:29157): cat (path_Archivo)
+[INFO] 00:40:34:648 Consola_MDJ/(30205:30206): Consola File System
+[INFO] 00:40:34:651 Consola_MDJ/(30205:30206): Ingrese la operacion deseada:
+[INFO] 00:40:34:653 Consola_MDJ/(30205:30206): ls (path_Directorio)
+[INFO] 00:40:34:654 Consola_MDJ/(30205:30206): cd (path_Directorio)
+[INFO] 00:40:34:654 Consola_MDJ/(30205:30206): md5 (path_Archivo)
+[INFO] 00:40:34:655 Consola_MDJ/(30205:30206): cat (path_Archivo)
+[INFO] 00:55:50:544 Consola_MDJ/(30576:30577): Consola File System
+[INFO] 00:55:50:545 Consola_MDJ/(30576:30577): Ingrese la operacion deseada:
+[INFO] 00:55:50:546 Consola_MDJ/(30576:30577): ls (path_Directorio)
+[INFO] 00:55:50:547 Consola_MDJ/(30576:30577): cd (path_Directorio)
+[INFO] 00:55:50:556 Consola_MDJ/(30576:30577): md5 (path_Archivo)
+[INFO] 00:55:50:557 Consola_MDJ/(30576:30577): cat (path_Archivo)
+[INFO] 00:59:42:295 Consola_MDJ/(30685:30686): Consola File System
+[INFO] 00:59:42:304 Consola_MDJ/(30685:30686): Ingrese la operacion deseada:
+[INFO] 00:59:42:305 Consola_MDJ/(30685:30686): ls (path_Directorio)
+[INFO] 00:59:42:316 Consola_MDJ/(30685:30686): cd (path_Directorio)
+[INFO] 00:59:42:316 Consola_MDJ/(30685:30686): md5 (path_Archivo)
+[INFO] 00:59:42:317 Consola_MDJ/(30685:30686): cat (path_Archivo)
+[INFO] 01:00:52:804 Consola_MDJ/(30735:30736): Consola File System
+[INFO] 01:00:52:804 Consola_MDJ/(30735:30736): Ingrese la operacion deseada:
+[INFO] 01:00:52:805 Consola_MDJ/(30735:30736): ls (path_Directorio)
+[INFO] 01:00:52:805 Consola_MDJ/(30735:30736): cd (path_Directorio)
+[INFO] 01:00:52:812 Consola_MDJ/(30735:30736): md5 (path_Archivo)
+[INFO] 01:00:52:812 Consola_MDJ/(30735:30736): cat (path_Archivo)
+[INFO] 01:03:28:297 Consola_MDJ/(30848:30849): Consola File System
+[INFO] 01:03:28:298 Consola_MDJ/(30848:30849): Ingrese la operacion deseada:
+[INFO] 01:03:28:298 Consola_MDJ/(30848:30849): ls (path_Directorio)
+[INFO] 01:03:28:298 Consola_MDJ/(30848:30849): cd (path_Directorio)
+[INFO] 01:03:28:299 Consola_MDJ/(30848:30849): md5 (path_Archivo)
+[INFO] 01:03:28:299 Consola_MDJ/(30848:30849): cat (path_Archivo)
+[INFO] 01:13:02:508 Consola_MDJ/(31071:31072): Consola File System
+[INFO] 01:13:02:508 Consola_MDJ/(31071:31072): Ingrese la operacion deseada:
+[INFO] 01:13:02:519 Consola_MDJ/(31071:31072): ls (path_Directorio)
+[INFO] 01:13:02:519 Consola_MDJ/(31071:31072): cd (path_Directorio)
+[INFO] 01:13:02:519 Consola_MDJ/(31071:31072): md5 (path_Archivo)
+[INFO] 01:13:02:520 Consola_MDJ/(31071:31072): cat (path_Archivo)
+[INFO] 01:15:44:711 Consola_MDJ/(31222:31223): Consola File System
+[INFO] 01:15:44:711 Consola_MDJ/(31222:31223): Ingrese la operacion deseada:
+[INFO] 01:15:44:712 Consola_MDJ/(31222:31223): ls (path_Directorio)
+[INFO] 01:15:44:712 Consola_MDJ/(31222:31223): cd (path_Directorio)
+[INFO] 01:15:44:712 Consola_MDJ/(31222:31223): md5 (path_Archivo)
+[INFO] 01:15:44:720 Consola_MDJ/(31222:31223): cat (path_Archivo)

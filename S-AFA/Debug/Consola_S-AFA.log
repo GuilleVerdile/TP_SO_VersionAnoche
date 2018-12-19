@@ -1,0 +1,1050 @@
+[INFO] 17:58:22:172 Consola_S-AFA/(9341:9360): Gestor de programas G.DT
+[INFO] 17:58:22:183 Consola_S-AFA/(9341:9360): Ingrese la operacion deseada:
+[INFO] 17:58:22:185 Consola_S-AFA/(9341:9360): ejecutar RutaEncriptorio
+[INFO] 17:58:22:189 Consola_S-AFA/(9341:9360): status (ID_DTBLOCK)
+[INFO] 17:58:22:189 Consola_S-AFA/(9341:9360): finalizar ID_DTBLOCK
+[INFO] 17:58:22:190 Consola_S-AFA/(9341:9360): metricas (ID_DTBLOCK)
+[INFO] 17:59:33:42 Consola_S-AFA/(9341:9360): Se reservo una CPU para el nuevo escriptorio
+[INFO] 17:59:33:118 Consola_S-AFA/(9341:9360): Se reservo una CPU para el nuevo escriptorio
+[INFO] 17:59:33:528 Consola_S-AFA/(9341:9360): Se reservo una CPU para el nuevo escriptorio
+[ERROR] 18:08:04:323 Consola_S-AFA/(9341:9360): No se reconocio el comando
+[INFO] 18:46:33:890 Consola_S-AFA/(9885:9906): Gestor de programas G.DT
+[INFO] 18:46:33:898 Consola_S-AFA/(9885:9906): Ingrese la operacion deseada:
+[INFO] 18:46:33:904 Consola_S-AFA/(9885:9906): ejecutar RutaEncriptorio
+[INFO] 18:46:33:910 Consola_S-AFA/(9885:9906): status (ID_DTBLOCK)
+[INFO] 18:46:33:910 Consola_S-AFA/(9885:9906): finalizar ID_DTBLOCK
+[INFO] 18:46:33:910 Consola_S-AFA/(9885:9906): metricas (ID_DTBLOCK)
+[INFO] 18:47:42:733 Consola_S-AFA/(9885:9906): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:49:47:955 Consola_S-AFA/(9885:9906): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:53:31:430 Consola_S-AFA/(9989:10000): Gestor de programas G.DT
+[INFO] 18:53:31:433 Consola_S-AFA/(9989:10000): Ingrese la operacion deseada:
+[INFO] 18:53:31:435 Consola_S-AFA/(9989:10000): ejecutar RutaEncriptorio
+[INFO] 18:53:31:436 Consola_S-AFA/(9989:10000): status (ID_DTBLOCK)
+[INFO] 18:53:31:439 Consola_S-AFA/(9989:10000): finalizar ID_DTBLOCK
+[INFO] 18:53:31:441 Consola_S-AFA/(9989:10000): metricas (ID_DTBLOCK)
+[INFO] 18:53:40:298 Consola_S-AFA/(9989:10000): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:55:18:144 Consola_S-AFA/(9989:10000): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:56:02:996 Consola_S-AFA/(9989:10000): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:56:53:739 Consola_S-AFA/(9989:10000): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:07:42:174 Consola_S-AFA/(10192:10202): Gestor de programas G.DT
+[INFO] 19:07:42:194 Consola_S-AFA/(10192:10202): Ingrese la operacion deseada:
+[INFO] 19:07:42:207 Consola_S-AFA/(10192:10202): ejecutar RutaEncriptorio
+[INFO] 19:07:42:208 Consola_S-AFA/(10192:10202): status (ID_DTBLOCK)
+[INFO] 19:07:42:209 Consola_S-AFA/(10192:10202): finalizar ID_DTBLOCK
+[INFO] 19:07:42:210 Consola_S-AFA/(10192:10202): metricas (ID_DTBLOCK)
+[INFO] 19:07:54:566 Consola_S-AFA/(10192:10202): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:12:36:588 Consola_S-AFA/(10192:10202): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:17:02:31 Consola_S-AFA/(10425:10444): Gestor de programas G.DT
+[INFO] 19:17:02:54 Consola_S-AFA/(10425:10444): Ingrese la operacion deseada:
+[INFO] 19:17:02:55 Consola_S-AFA/(10425:10444): ejecutar RutaEncriptorio
+[INFO] 19:17:02:56 Consola_S-AFA/(10425:10444): status (ID_DTBLOCK)
+[INFO] 19:17:02:57 Consola_S-AFA/(10425:10444): finalizar ID_DTBLOCK
+[INFO] 19:17:02:57 Consola_S-AFA/(10425:10444): metricas (ID_DTBLOCK)
+[INFO] 19:17:10:985 Consola_S-AFA/(10425:10444): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:22:29:34 Consola_S-AFA/(10640:10651): Gestor de programas G.DT
+[INFO] 19:22:29:49 Consola_S-AFA/(10640:10651): Ingrese la operacion deseada:
+[INFO] 19:22:29:54 Consola_S-AFA/(10640:10651): ejecutar RutaEncriptorio
+[INFO] 19:22:29:55 Consola_S-AFA/(10640:10651): status (ID_DTBLOCK)
+[INFO] 19:22:29:56 Consola_S-AFA/(10640:10651): finalizar ID_DTBLOCK
+[INFO] 19:22:29:57 Consola_S-AFA/(10640:10651): metricas (ID_DTBLOCK)
+[INFO] 19:23:06:396 Consola_S-AFA/(10640:10651): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:23:29:206 Consola_S-AFA/(10640:10651): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:24:03:582 Consola_S-AFA/(10698:10711): Gestor de programas G.DT
+[INFO] 19:24:03:582 Consola_S-AFA/(10698:10711): Ingrese la operacion deseada:
+[INFO] 19:24:03:583 Consola_S-AFA/(10698:10711): ejecutar RutaEncriptorio
+[INFO] 19:24:03:592 Consola_S-AFA/(10698:10711): status (ID_DTBLOCK)
+[INFO] 19:24:03:601 Consola_S-AFA/(10698:10711): finalizar ID_DTBLOCK
+[INFO] 19:24:03:601 Consola_S-AFA/(10698:10711): metricas (ID_DTBLOCK)
+[INFO] 19:24:09:713 Consola_S-AFA/(10698:10711): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:24:15:730 Consola_S-AFA/(10698:10711): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:24:25:109 Consola_S-AFA/(10698:10711): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:24:52:226 Consola_S-AFA/(10698:10711): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:25:05:288 Consola_S-AFA/(10698:10711): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:29:42:785 Consola_S-AFA/(10791:10805): Gestor de programas G.DT
+[INFO] 19:29:42:790 Consola_S-AFA/(10791:10805): Ingrese la operacion deseada:
+[INFO] 19:29:42:790 Consola_S-AFA/(10791:10805): ejecutar RutaEncriptorio
+[INFO] 19:29:42:791 Consola_S-AFA/(10791:10805): status (ID_DTBLOCK)
+[INFO] 19:29:42:793 Consola_S-AFA/(10791:10805): finalizar ID_DTBLOCK
+[INFO] 19:29:42:796 Consola_S-AFA/(10791:10805): metricas (ID_DTBLOCK)
+[INFO] 19:29:57:419 Consola_S-AFA/(10791:10805): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:30:04:265 Consola_S-AFA/(10791:10805): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:30:07:889 Consola_S-AFA/(10791:10805): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:30:15:269 Consola_S-AFA/(10791:10805): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:32:15:352 Consola_S-AFA/(10867:10880): Gestor de programas G.DT
+[INFO] 19:32:15:357 Consola_S-AFA/(10867:10880): Ingrese la operacion deseada:
+[INFO] 19:32:15:357 Consola_S-AFA/(10867:10880): ejecutar RutaEncriptorio
+[INFO] 19:32:15:365 Consola_S-AFA/(10867:10880): status (ID_DTBLOCK)
+[INFO] 19:32:15:365 Consola_S-AFA/(10867:10880): finalizar ID_DTBLOCK
+[INFO] 19:32:15:365 Consola_S-AFA/(10867:10880): metricas (ID_DTBLOCK)
+[INFO] 19:32:24:480 Consola_S-AFA/(10867:10880): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:33:06:583 Consola_S-AFA/(10867:10880): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:38:29:221 Consola_S-AFA/(11002:11012): Gestor de programas G.DT
+[INFO] 19:38:29:234 Consola_S-AFA/(11002:11012): Ingrese la operacion deseada:
+[INFO] 19:38:29:235 Consola_S-AFA/(11002:11012): ejecutar RutaEncriptorio
+[INFO] 19:38:29:240 Consola_S-AFA/(11002:11012): status (ID_DTBLOCK)
+[INFO] 19:38:29:241 Consola_S-AFA/(11002:11012): finalizar ID_DTBLOCK
+[INFO] 19:38:29:241 Consola_S-AFA/(11002:11012): metricas (ID_DTBLOCK)
+[INFO] 19:39:08:56 Consola_S-AFA/(11002:11012): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:46:01:135 Consola_S-AFA/(11156:11170): Gestor de programas G.DT
+[INFO] 19:46:01:139 Consola_S-AFA/(11156:11170): Ingrese la operacion deseada:
+[INFO] 19:46:01:153 Consola_S-AFA/(11156:11170): ejecutar RutaEncriptorio
+[INFO] 19:46:01:164 Consola_S-AFA/(11156:11170): status (ID_DTBLOCK)
+[INFO] 19:46:01:167 Consola_S-AFA/(11156:11170): finalizar ID_DTBLOCK
+[INFO] 19:46:01:167 Consola_S-AFA/(11156:11170): metricas (ID_DTBLOCK)
+[INFO] 19:46:10:234 Consola_S-AFA/(11156:11170): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:52:37:521 Consola_S-AFA/(11276:11286): Gestor de programas G.DT
+[INFO] 19:52:37:529 Consola_S-AFA/(11276:11286): Ingrese la operacion deseada:
+[INFO] 19:52:37:529 Consola_S-AFA/(11276:11286): ejecutar RutaEncriptorio
+[INFO] 19:52:37:533 Consola_S-AFA/(11276:11286): status (ID_DTBLOCK)
+[INFO] 19:52:37:535 Consola_S-AFA/(11276:11286): finalizar ID_DTBLOCK
+[INFO] 19:52:37:536 Consola_S-AFA/(11276:11286): metricas (ID_DTBLOCK)
+[INFO] 19:52:48:733 Consola_S-AFA/(11276:11286): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:54:16:981 Consola_S-AFA/(11340:11350): Gestor de programas G.DT
+[INFO] 19:54:16:990 Consola_S-AFA/(11340:11350): Ingrese la operacion deseada:
+[INFO] 19:54:16:992 Consola_S-AFA/(11340:11350): ejecutar RutaEncriptorio
+[INFO] 19:54:16:994 Consola_S-AFA/(11340:11350): status (ID_DTBLOCK)
+[INFO] 19:54:16:994 Consola_S-AFA/(11340:11350): finalizar ID_DTBLOCK
+[INFO] 19:54:16:996 Consola_S-AFA/(11340:11350): metricas (ID_DTBLOCK)
+[INFO] 19:54:25:854 Consola_S-AFA/(11340:11350): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:05:51:960 Consola_S-AFA/(11569:11588): Gestor de programas G.DT
+[INFO] 20:05:51:970 Consola_S-AFA/(11569:11588): Ingrese la operacion deseada:
+[INFO] 20:05:51:976 Consola_S-AFA/(11569:11588): ejecutar RutaEncriptorio
+[INFO] 20:05:51:976 Consola_S-AFA/(11569:11588): status (ID_DTBLOCK)
+[INFO] 20:05:51:977 Consola_S-AFA/(11569:11588): finalizar ID_DTBLOCK
+[INFO] 20:05:51:978 Consola_S-AFA/(11569:11588): metricas (ID_DTBLOCK)
+[INFO] 20:06:05:58 Consola_S-AFA/(11569:11588): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:06:39:737 Consola_S-AFA/(11604:11615): Gestor de programas G.DT
+[INFO] 20:06:39:742 Consola_S-AFA/(11604:11615): Ingrese la operacion deseada:
+[INFO] 20:06:39:743 Consola_S-AFA/(11604:11615): ejecutar RutaEncriptorio
+[INFO] 20:06:39:755 Consola_S-AFA/(11604:11615): status (ID_DTBLOCK)
+[INFO] 20:06:39:756 Consola_S-AFA/(11604:11615): finalizar ID_DTBLOCK
+[INFO] 20:06:39:756 Consola_S-AFA/(11604:11615): metricas (ID_DTBLOCK)
+[INFO] 20:06:51:713 Consola_S-AFA/(11604:11615): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:10:35:245 Consola_S-AFA/(11684:11694): Gestor de programas G.DT
+[INFO] 20:10:35:256 Consola_S-AFA/(11684:11694): Ingrese la operacion deseada:
+[INFO] 20:10:35:257 Consola_S-AFA/(11684:11694): ejecutar RutaEncriptorio
+[INFO] 20:10:35:264 Consola_S-AFA/(11684:11694): status (ID_DTBLOCK)
+[INFO] 20:10:35:264 Consola_S-AFA/(11684:11694): finalizar ID_DTBLOCK
+[INFO] 20:10:35:265 Consola_S-AFA/(11684:11694): metricas (ID_DTBLOCK)
+[INFO] 20:10:43:595 Consola_S-AFA/(11684:11694): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:58:08:167 Consola_S-AFA/(12444:12460): Gestor de programas G.DT
+[INFO] 20:58:08:174 Consola_S-AFA/(12444:12460): Ingrese la operacion deseada:
+[INFO] 20:58:08:202 Consola_S-AFA/(12444:12460): ejecutar RutaEncriptorio
+[INFO] 20:58:08:202 Consola_S-AFA/(12444:12460): status (ID_DTBLOCK)
+[INFO] 20:58:08:203 Consola_S-AFA/(12444:12460): finalizar ID_DTBLOCK
+[INFO] 20:58:08:211 Consola_S-AFA/(12444:12460): metricas (ID_DTBLOCK)
+[INFO] 20:58:23:966 Consola_S-AFA/(12444:12460): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:04:39:875 Consola_S-AFA/(12444:12460): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:06:42:729 Consola_S-AFA/(12597:12607): Gestor de programas G.DT
+[INFO] 21:06:42:744 Consola_S-AFA/(12597:12607): Ingrese la operacion deseada:
+[INFO] 21:06:42:748 Consola_S-AFA/(12597:12607): ejecutar RutaEncriptorio
+[INFO] 21:06:42:749 Consola_S-AFA/(12597:12607): status (ID_DTBLOCK)
+[INFO] 21:06:42:749 Consola_S-AFA/(12597:12607): finalizar ID_DTBLOCK
+[INFO] 21:06:42:749 Consola_S-AFA/(12597:12607): metricas (ID_DTBLOCK)
+[INFO] 21:07:33:519 Consola_S-AFA/(12597:12607): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:07:33:534 Consola_S-AFA/(12597:12607): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:08:08:353 Consola_S-AFA/(12642:12653): Gestor de programas G.DT
+[INFO] 21:08:08:357 Consola_S-AFA/(12642:12653): Ingrese la operacion deseada:
+[INFO] 21:08:08:358 Consola_S-AFA/(12642:12653): ejecutar RutaEncriptorio
+[INFO] 21:08:08:359 Consola_S-AFA/(12642:12653): status (ID_DTBLOCK)
+[INFO] 21:08:08:373 Consola_S-AFA/(12642:12653): finalizar ID_DTBLOCK
+[INFO] 21:08:08:374 Consola_S-AFA/(12642:12653): metricas (ID_DTBLOCK)
+[INFO] 21:08:18:343 Consola_S-AFA/(12642:12653): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:08:18:365 Consola_S-AFA/(12642:12653): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:08:19:59 Consola_S-AFA/(12642:12653): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:08:52:48 Consola_S-AFA/(12683:12700): Gestor de programas G.DT
+[INFO] 21:08:52:56 Consola_S-AFA/(12683:12700): Ingrese la operacion deseada:
+[INFO] 21:08:52:58 Consola_S-AFA/(12683:12700): ejecutar RutaEncriptorio
+[INFO] 21:08:52:58 Consola_S-AFA/(12683:12700): status (ID_DTBLOCK)
+[INFO] 21:08:52:59 Consola_S-AFA/(12683:12700): finalizar ID_DTBLOCK
+[INFO] 21:08:52:64 Consola_S-AFA/(12683:12700): metricas (ID_DTBLOCK)
+[INFO] 21:09:05:94 Consola_S-AFA/(12683:12700): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:09:05:115 Consola_S-AFA/(12683:12700): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:09:05:612 Consola_S-AFA/(12683:12700): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:09:46:993 Consola_S-AFA/(12739:12756): Gestor de programas G.DT
+[INFO] 21:09:46:997 Consola_S-AFA/(12739:12756): Ingrese la operacion deseada:
+[INFO] 21:09:46:997 Consola_S-AFA/(12739:12756): ejecutar RutaEncriptorio
+[INFO] 21:09:47:5 Consola_S-AFA/(12739:12756): status (ID_DTBLOCK)
+[INFO] 21:09:47:5 Consola_S-AFA/(12739:12756): finalizar ID_DTBLOCK
+[INFO] 21:09:47:5 Consola_S-AFA/(12739:12756): metricas (ID_DTBLOCK)
+[INFO] 21:10:04:135 Consola_S-AFA/(12739:12756): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:10:04:156 Consola_S-AFA/(12739:12756): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:10:04:565 Consola_S-AFA/(12739:12756): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:12:42:699 Consola_S-AFA/(12828:12838): Gestor de programas G.DT
+[INFO] 21:12:42:714 Consola_S-AFA/(12828:12838): Ingrese la operacion deseada:
+[INFO] 21:12:42:714 Consola_S-AFA/(12828:12838): ejecutar RutaEncriptorio
+[INFO] 21:12:42:715 Consola_S-AFA/(12828:12838): status (ID_DTBLOCK)
+[INFO] 21:12:42:720 Consola_S-AFA/(12828:12838): finalizar ID_DTBLOCK
+[INFO] 21:12:42:731 Consola_S-AFA/(12828:12838): metricas (ID_DTBLOCK)
+[INFO] 21:12:51:202 Consola_S-AFA/(12828:12838): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:12:51:214 Consola_S-AFA/(12828:12838): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:12:51:694 Consola_S-AFA/(12828:12838): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:13:22:49 Consola_S-AFA/(12866:12880): Gestor de programas G.DT
+[INFO] 21:13:22:52 Consola_S-AFA/(12866:12880): Ingrese la operacion deseada:
+[INFO] 21:13:22:53 Consola_S-AFA/(12866:12880): ejecutar RutaEncriptorio
+[INFO] 21:13:22:57 Consola_S-AFA/(12866:12880): status (ID_DTBLOCK)
+[INFO] 21:13:22:57 Consola_S-AFA/(12866:12880): finalizar ID_DTBLOCK
+[INFO] 21:13:22:61 Consola_S-AFA/(12866:12880): metricas (ID_DTBLOCK)
+[INFO] 21:13:31:850 Consola_S-AFA/(12866:12880): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:13:31:873 Consola_S-AFA/(12866:12880): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:13:32:571 Consola_S-AFA/(12866:12880): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:14:33:51 Consola_S-AFA/(12866:12880): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:14:33:66 Consola_S-AFA/(12866:12880): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:14:33:839 Consola_S-AFA/(12866:12880): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:19:16:764 Consola_S-AFA/(12866:12880): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:19:16:785 Consola_S-AFA/(12866:12880): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:19:17:533 Consola_S-AFA/(12866:12880): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:38:30:496 Consola_S-AFA/(13211:13224): Gestor de programas G.DT
+[INFO] 21:38:30:504 Consola_S-AFA/(13211:13224): Ingrese la operacion deseada:
+[INFO] 21:38:30:504 Consola_S-AFA/(13211:13224): ejecutar RutaEncriptorio
+[INFO] 21:38:30:505 Consola_S-AFA/(13211:13224): status (ID_DTBLOCK)
+[INFO] 21:38:30:505 Consola_S-AFA/(13211:13224): finalizar ID_DTBLOCK
+[INFO] 21:38:30:512 Consola_S-AFA/(13211:13224): metricas (ID_DTBLOCK)
+[INFO] 21:38:54:160 Consola_S-AFA/(13211:13224): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:40:40:41 Consola_S-AFA/(13245:13255): Gestor de programas G.DT
+[INFO] 21:40:40:49 Consola_S-AFA/(13245:13255): Ingrese la operacion deseada:
+[INFO] 21:40:40:58 Consola_S-AFA/(13245:13255): ejecutar RutaEncriptorio
+[INFO] 21:40:40:59 Consola_S-AFA/(13245:13255): status (ID_DTBLOCK)
+[INFO] 21:40:40:59 Consola_S-AFA/(13245:13255): finalizar ID_DTBLOCK
+[INFO] 21:40:40:60 Consola_S-AFA/(13245:13255): metricas (ID_DTBLOCK)
+[INFO] 21:41:01:169 Consola_S-AFA/(13245:13255): Se reservo una CPU para el nuevo escriptorio
+[INFO] 22:47:01:928 Consola_S-AFA/(14047:14062): Gestor de programas G.DT
+[INFO] 22:47:01:940 Consola_S-AFA/(14047:14062): Ingrese la operacion deseada:
+[INFO] 22:47:01:949 Consola_S-AFA/(14047:14062): ejecutar RutaEncriptorio
+[INFO] 22:47:01:953 Consola_S-AFA/(14047:14062): status (ID_DTBLOCK)
+[INFO] 22:47:01:955 Consola_S-AFA/(14047:14062): finalizar ID_DTBLOCK
+[INFO] 22:47:01:955 Consola_S-AFA/(14047:14062): metricas (ID_DTBLOCK)
+[INFO] 22:47:17:361 Consola_S-AFA/(14047:14062): Se reservo una CPU para el nuevo escriptorio
+[INFO] 22:48:14:715 Consola_S-AFA/(14047:14062): Se reservo una CPU para el nuevo escriptorio
+[INFO] 22:48:14:740 Consola_S-AFA/(14047:14062): Se reservo una CPU para el nuevo escriptorio
+[INFO] 22:48:15:465 Consola_S-AFA/(14047:14062): Se reservo una CPU para el nuevo escriptorio
+[INFO] 22:49:50:393 Consola_S-AFA/(14151:14166): Gestor de programas G.DT
+[INFO] 22:49:50:407 Consola_S-AFA/(14151:14166): Ingrese la operacion deseada:
+[INFO] 22:49:50:409 Consola_S-AFA/(14151:14166): ejecutar RutaEncriptorio
+[INFO] 22:49:50:409 Consola_S-AFA/(14151:14166): status (ID_DTBLOCK)
+[INFO] 22:49:50:409 Consola_S-AFA/(14151:14166): finalizar ID_DTBLOCK
+[INFO] 22:49:50:410 Consola_S-AFA/(14151:14166): metricas (ID_DTBLOCK)
+[INFO] 22:50:07:976 Consola_S-AFA/(14151:14166): Se reservo una CPU para el nuevo escriptorio
+[INFO] 22:50:07:1 Consola_S-AFA/(14151:14166): Se reservo una CPU para el nuevo escriptorio
+[INFO] 22:50:08:709 Consola_S-AFA/(14151:14166): Se reservo una CPU para el nuevo escriptorio
+[INFO] 22:57:27:247 Consola_S-AFA/(14368:14381): Gestor de programas G.DT
+[INFO] 22:57:27:255 Consola_S-AFA/(14368:14381): Ingrese la operacion deseada:
+[INFO] 22:57:27:262 Consola_S-AFA/(14368:14381): ejecutar RutaEncriptorio
+[INFO] 22:57:27:263 Consola_S-AFA/(14368:14381): status (ID_DTBLOCK)
+[INFO] 22:57:27:270 Consola_S-AFA/(14368:14381): finalizar ID_DTBLOCK
+[INFO] 22:57:27:271 Consola_S-AFA/(14368:14381): metricas (ID_DTBLOCK)
+[INFO] 22:57:45:753 Consola_S-AFA/(14368:14381): Se reservo una CPU para el nuevo escriptorio
+[INFO] 22:57:45:777 Consola_S-AFA/(14368:14381): Se reservo una CPU para el nuevo escriptorio
+[INFO] 22:57:46:273 Consola_S-AFA/(14368:14381): Se reservo una CPU para el nuevo escriptorio
+[INFO] 17:39:13:576 Consola_S-AFA/(8164:8190): Gestor de programas G.DT
+[INFO] 17:39:13:580 Consola_S-AFA/(8164:8190): Ingrese la operacion deseada:
+[INFO] 17:39:13:582 Consola_S-AFA/(8164:8190): ejecutar RutaEncriptorio
+[INFO] 17:39:13:585 Consola_S-AFA/(8164:8190): status (ID_DTBLOCK)
+[INFO] 17:39:13:588 Consola_S-AFA/(8164:8190): finalizar ID_DTBLOCK
+[INFO] 17:39:13:590 Consola_S-AFA/(8164:8190): metricas (ID_DTBLOCK)
+[INFO] 17:39:49:346 Consola_S-AFA/(8164:8190): Se ingreso comando ejecutar
+[INFO] 17:39:49:346 Consola_S-AFA/(8164:8190): Se reservo una CPU para el nuevo escriptorio
+[INFO] 17:41:12:543 Consola_S-AFA/(8248:8262): Gestor de programas G.DT
+[INFO] 17:41:12:547 Consola_S-AFA/(8248:8262): Ingrese la operacion deseada:
+[INFO] 17:41:12:553 Consola_S-AFA/(8248:8262): ejecutar RutaEncriptorio
+[INFO] 17:41:12:558 Consola_S-AFA/(8248:8262): status (ID_DTBLOCK)
+[INFO] 17:41:12:559 Consola_S-AFA/(8248:8262): finalizar ID_DTBLOCK
+[INFO] 17:41:12:560 Consola_S-AFA/(8248:8262): metricas (ID_DTBLOCK)
+[INFO] 17:41:21:66 Consola_S-AFA/(8248:8262): Se ingreso comando ejecutar
+[INFO] 17:41:21:67 Consola_S-AFA/(8248:8262): Se reservo una CPU para el nuevo escriptorio
+[INFO] 17:49:21:605 Consola_S-AFA/(8679:8709): Gestor de programas G.DT
+[INFO] 17:49:21:606 Consola_S-AFA/(8679:8709): Ingrese la operacion deseada:
+[INFO] 17:49:21:606 Consola_S-AFA/(8679:8709): ejecutar RutaEncriptorio
+[INFO] 17:49:21:608 Consola_S-AFA/(8679:8709): status (ID_DTBLOCK)
+[INFO] 17:49:21:609 Consola_S-AFA/(8679:8709): finalizar ID_DTBLOCK
+[INFO] 17:49:21:610 Consola_S-AFA/(8679:8709): metricas (ID_DTBLOCK)
+[INFO] 17:49:37:954 Consola_S-AFA/(8679:8709): Se ingreso comando ejecutar
+[INFO] 17:49:37:958 Consola_S-AFA/(8679:8709): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:02:32:737 Consola_S-AFA/(9304:9319): Gestor de programas G.DT
+[INFO] 18:02:32:740 Consola_S-AFA/(9304:9319): Ingrese la operacion deseada:
+[INFO] 18:02:32:742 Consola_S-AFA/(9304:9319): ejecutar RutaEncriptorio
+[INFO] 18:02:32:748 Consola_S-AFA/(9304:9319): status (ID_DTBLOCK)
+[INFO] 18:02:32:750 Consola_S-AFA/(9304:9319): finalizar ID_DTBLOCK
+[INFO] 18:02:32:753 Consola_S-AFA/(9304:9319): metricas (ID_DTBLOCK)
+[INFO] 18:02:43:216 Consola_S-AFA/(9304:9319): Se ingreso comando ejecutar
+[INFO] 18:02:43:218 Consola_S-AFA/(9304:9319): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:03:14:996 Consola_S-AFA/(9304:9319): Se ingreso comando ejecutar
+[INFO] 18:03:14:998 Consola_S-AFA/(9304:9319): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:22:08:690 Consola_S-AFA/(10171:10196): Gestor de programas G.DT
+[INFO] 18:22:08:694 Consola_S-AFA/(10171:10196): Ingrese la operacion deseada:
+[INFO] 18:22:08:695 Consola_S-AFA/(10171:10196): ejecutar RutaEncriptorio
+[INFO] 18:22:08:696 Consola_S-AFA/(10171:10196): status (ID_DTBLOCK)
+[INFO] 18:22:08:701 Consola_S-AFA/(10171:10196): finalizar ID_DTBLOCK
+[INFO] 18:22:08:704 Consola_S-AFA/(10171:10196): metricas (ID_DTBLOCK)
+[INFO] 18:22:14:365 Consola_S-AFA/(10171:10196): Se ingreso comando ejecutar
+[INFO] 18:22:14:366 Consola_S-AFA/(10171:10196): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:22:50:276 Consola_S-AFA/(10171:10196): Se ingreso comando ejecutar
+[INFO] 18:22:50:277 Consola_S-AFA/(10171:10196): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:23:09:480 Consola_S-AFA/(10171:10196): Se ingreso comando ejecutar
+[INFO] 18:23:09:481 Consola_S-AFA/(10171:10196): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:24:57:931 Consola_S-AFA/(10171:10196): Se ingreso comando ejecutar
+[INFO] 18:24:57:932 Consola_S-AFA/(10171:10196): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:24:57:976 Consola_S-AFA/(10171:10196): Se ingreso comando ejecutar
+[INFO] 18:24:57:977 Consola_S-AFA/(10171:10196): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:24:58:722 Consola_S-AFA/(10171:10196): Se ingreso comando ejecutar
+[INFO] 18:26:12:262 Consola_S-AFA/(10515:10533): Gestor de programas G.DT
+[INFO] 18:26:12:264 Consola_S-AFA/(10515:10533): Ingrese la operacion deseada:
+[INFO] 18:26:12:272 Consola_S-AFA/(10515:10533): ejecutar RutaEncriptorio
+[INFO] 18:26:12:272 Consola_S-AFA/(10515:10533): status (ID_DTBLOCK)
+[INFO] 18:26:12:272 Consola_S-AFA/(10515:10533): finalizar ID_DTBLOCK
+[INFO] 18:26:12:273 Consola_S-AFA/(10515:10533): metricas (ID_DTBLOCK)
+[INFO] 18:26:26:743 Consola_S-AFA/(10515:10533): Se ingreso comando ejecutar
+[INFO] 18:26:26:743 Consola_S-AFA/(10515:10533): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:26:26:785 Consola_S-AFA/(10515:10533): Se ingreso comando ejecutar
+[INFO] 18:26:26:785 Consola_S-AFA/(10515:10533): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:26:27:522 Consola_S-AFA/(10515:10533): Se ingreso comando ejecutar
+[INFO] 18:26:27:523 Consola_S-AFA/(10515:10533): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:27:23:902 Consola_S-AFA/(10515:10533): Se ingreso comando ejecutar
+[INFO] 18:27:23:904 Consola_S-AFA/(10515:10533): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:27:23:936 Consola_S-AFA/(10515:10533): Se ingreso comando ejecutar
+[INFO] 18:27:23:938 Consola_S-AFA/(10515:10533): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:27:24:309 Consola_S-AFA/(10515:10533): Se ingreso comando ejecutar
+[INFO] 18:27:24:316 Consola_S-AFA/(10515:10533): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:31:03:502 Consola_S-AFA/(10916:10945): Gestor de programas G.DT
+[INFO] 18:31:03:512 Consola_S-AFA/(10916:10945): Ingrese la operacion deseada:
+[INFO] 18:31:03:513 Consola_S-AFA/(10916:10945): ejecutar RutaEncriptorio
+[INFO] 18:31:03:516 Consola_S-AFA/(10916:10945): status (ID_DTBLOCK)
+[INFO] 18:31:03:517 Consola_S-AFA/(10916:10945): finalizar ID_DTBLOCK
+[INFO] 18:31:03:519 Consola_S-AFA/(10916:10945): metricas (ID_DTBLOCK)
+[INFO] 18:31:17:63 Consola_S-AFA/(10916:10945): Se ingreso comando ejecutar
+[INFO] 18:31:17:64 Consola_S-AFA/(10916:10945): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:31:17:108 Consola_S-AFA/(10916:10945): Se ingreso comando ejecutar
+[INFO] 18:31:17:109 Consola_S-AFA/(10916:10945): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:31:17:490 Consola_S-AFA/(10916:10945): Se ingreso comando ejecutar
+[INFO] 18:31:17:492 Consola_S-AFA/(10916:10945): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:32:03:607 Consola_S-AFA/(10916:10945): Se ingreso comando ejecutar
+[INFO] 18:32:03:608 Consola_S-AFA/(10916:10945): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:32:03:662 Consola_S-AFA/(10916:10945): Se ingreso comando ejecutar
+[INFO] 18:32:03:663 Consola_S-AFA/(10916:10945): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:32:04:68 Consola_S-AFA/(10916:10945): Se ingreso comando ejecutar
+[INFO] 18:32:04:70 Consola_S-AFA/(10916:10945): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:34:16:656 Consola_S-AFA/(10916:10945): Se ingreso comando ejecutar
+[INFO] 18:34:16:657 Consola_S-AFA/(10916:10945): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:34:16:684 Consola_S-AFA/(10916:10945): Se ingreso comando ejecutar
+[INFO] 18:34:16:687 Consola_S-AFA/(10916:10945): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:34:17:118 Consola_S-AFA/(10916:10945): Se ingreso comando ejecutar
+[INFO] 18:34:17:123 Consola_S-AFA/(10916:10945): Se reservo una CPU para el nuevo escriptorio
+[INFO] 18:45:07:643 Consola_S-AFA/(11619:11635): Gestor de programas G.DT
+[INFO] 18:45:07:686 Consola_S-AFA/(11619:11635): Ingrese la operacion deseada:
+[INFO] 18:45:07:696 Consola_S-AFA/(11619:11635): ejecutar RutaEncriptorio
+[INFO] 18:45:07:714 Consola_S-AFA/(11619:11635): status (ID_DTBLOCK)
+[INFO] 18:45:07:722 Consola_S-AFA/(11619:11635): finalizar ID_DTBLOCK
+[INFO] 18:45:07:724 Consola_S-AFA/(11619:11635): metricas (ID_DTBLOCK)
+[INFO] 18:45:38:318 Consola_S-AFA/(11619:11635): Se ingreso comando ejecutar
+[INFO] 18:45:38:336 Consola_S-AFA/(11619:11635): Se reservo una CPU para el nuevo escriptorio
+[ERROR] 18:47:17:821 Consola_S-AFA/(11619:11635): No se reconocio el comando
+[INFO] 19:01:33:606 Consola_S-AFA/(12716:12729): Gestor de programas G.DT
+[INFO] 19:01:33:636 Consola_S-AFA/(12716:12729): Ingrese la operacion deseada:
+[INFO] 19:01:33:646 Consola_S-AFA/(12716:12729): ejecutar RutaEncriptorio
+[INFO] 19:01:33:697 Consola_S-AFA/(12716:12729): status (ID_DTBLOCK)
+[INFO] 19:01:33:712 Consola_S-AFA/(12716:12729): finalizar ID_DTBLOCK
+[INFO] 19:01:33:723 Consola_S-AFA/(12716:12729): metricas (ID_DTBLOCK)
+[INFO] 19:01:42:132 Consola_S-AFA/(12716:12729): Se ingreso comando ejecutar
+[INFO] 19:01:42:147 Consola_S-AFA/(12716:12729): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:12:29:308 Consola_S-AFA/(13295:13313): Gestor de programas G.DT
+[INFO] 19:12:29:311 Consola_S-AFA/(13295:13313): Ingrese la operacion deseada:
+[INFO] 19:12:29:314 Consola_S-AFA/(13295:13313): ejecutar RutaEncriptorio
+[INFO] 19:12:29:316 Consola_S-AFA/(13295:13313): status (ID_DTBLOCK)
+[INFO] 19:12:29:319 Consola_S-AFA/(13295:13313): finalizar ID_DTBLOCK
+[INFO] 19:12:29:320 Consola_S-AFA/(13295:13313): metricas (ID_DTBLOCK)
+[INFO] 19:12:39:807 Consola_S-AFA/(13295:13313): Se ingreso comando ejecutar
+[INFO] 19:12:39:812 Consola_S-AFA/(13295:13313): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:43:59:520 Consola_S-AFA/(14709:14719): Gestor de programas G.DT
+[INFO] 19:43:59:528 Consola_S-AFA/(14709:14719): Ingrese la operacion deseada:
+[INFO] 19:43:59:529 Consola_S-AFA/(14709:14719): ejecutar RutaEncriptorio
+[INFO] 19:43:59:530 Consola_S-AFA/(14709:14719): status (ID_DTBLOCK)
+[INFO] 19:43:59:532 Consola_S-AFA/(14709:14719): finalizar ID_DTBLOCK
+[INFO] 19:43:59:534 Consola_S-AFA/(14709:14719): metricas (ID_DTBLOCK)
+[INFO] 19:44:05:815 Consola_S-AFA/(14709:14719): Se ingreso comando ejecutar
+[INFO] 19:44:05:815 Consola_S-AFA/(14709:14719): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:45:05:994 Consola_S-AFA/(14755:14774): Gestor de programas G.DT
+[INFO] 19:45:06:10 Consola_S-AFA/(14755:14774): Ingrese la operacion deseada:
+[INFO] 19:45:06:17 Consola_S-AFA/(14755:14774): ejecutar RutaEncriptorio
+[INFO] 19:45:06:22 Consola_S-AFA/(14755:14774): status (ID_DTBLOCK)
+[INFO] 19:45:06:25 Consola_S-AFA/(14755:14774): finalizar ID_DTBLOCK
+[INFO] 19:45:06:29 Consola_S-AFA/(14755:14774): metricas (ID_DTBLOCK)
+[INFO] 19:45:17:428 Consola_S-AFA/(14755:14774): Se ingreso comando ejecutar
+[INFO] 19:45:17:447 Consola_S-AFA/(14755:14774): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:46:09:281 Consola_S-AFA/(14785:14804): Gestor de programas G.DT
+[INFO] 19:46:09:307 Consola_S-AFA/(14785:14804): Ingrese la operacion deseada:
+[INFO] 19:46:09:317 Consola_S-AFA/(14785:14804): ejecutar RutaEncriptorio
+[INFO] 19:46:09:321 Consola_S-AFA/(14785:14804): status (ID_DTBLOCK)
+[INFO] 19:46:09:325 Consola_S-AFA/(14785:14804): finalizar ID_DTBLOCK
+[INFO] 19:46:09:330 Consola_S-AFA/(14785:14804): metricas (ID_DTBLOCK)
+[INFO] 19:46:36:49 Consola_S-AFA/(14785:14804): Se ingreso comando ejecutar
+[INFO] 19:46:36:73 Consola_S-AFA/(14785:14804): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:47:55:320 Consola_S-AFA/(14856:14869): Gestor de programas G.DT
+[INFO] 19:47:55:337 Consola_S-AFA/(14856:14869): Ingrese la operacion deseada:
+[INFO] 19:47:55:345 Consola_S-AFA/(14856:14869): ejecutar RutaEncriptorio
+[INFO] 19:47:55:349 Consola_S-AFA/(14856:14869): status (ID_DTBLOCK)
+[INFO] 19:47:55:353 Consola_S-AFA/(14856:14869): finalizar ID_DTBLOCK
+[INFO] 19:47:55:357 Consola_S-AFA/(14856:14869): metricas (ID_DTBLOCK)
+[INFO] 19:48:02:783 Consola_S-AFA/(14856:14869): Se ingreso comando ejecutar
+[INFO] 19:48:02:791 Consola_S-AFA/(14856:14869): Se reservo una CPU para el nuevo escriptorio
+[ERROR] 19:49:17:68 Consola_S-AFA/(14856:14869): No se reconocio el comando
+[INFO] 19:52:20:956 Consola_S-AFA/(15162:15178): Gestor de programas G.DT
+[INFO] 19:52:20:958 Consola_S-AFA/(15162:15178): Ingrese la operacion deseada:
+[INFO] 19:52:20:961 Consola_S-AFA/(15162:15178): ejecutar RutaEncriptorio
+[INFO] 19:52:20:962 Consola_S-AFA/(15162:15178): status (ID_DTBLOCK)
+[INFO] 19:52:20:964 Consola_S-AFA/(15162:15178): finalizar ID_DTBLOCK
+[INFO] 19:52:20:968 Consola_S-AFA/(15162:15178): metricas (ID_DTBLOCK)
+[INFO] 19:52:28:405 Consola_S-AFA/(15162:15178): Se ingreso comando ejecutar
+[INFO] 19:52:28:405 Consola_S-AFA/(15162:15178): Se reservo una CPU para el nuevo escriptorio
+[INFO] 19:53:57:829 Consola_S-AFA/(15217:15247): Gestor de programas G.DT
+[INFO] 19:53:57:870 Consola_S-AFA/(15217:15247): Ingrese la operacion deseada:
+[INFO] 19:53:57:885 Consola_S-AFA/(15217:15247): ejecutar RutaEncriptorio
+[INFO] 19:53:57:901 Consola_S-AFA/(15217:15247): status (ID_DTBLOCK)
+[INFO] 19:53:57:912 Consola_S-AFA/(15217:15247): finalizar ID_DTBLOCK
+[INFO] 19:53:57:914 Consola_S-AFA/(15217:15247): metricas (ID_DTBLOCK)
+[INFO] 19:54:11:79 Consola_S-AFA/(15217:15247): Se ingreso comando ejecutar
+[INFO] 19:54:11:91 Consola_S-AFA/(15217:15247): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:05:04:853 Consola_S-AFA/(15731:15745): Gestor de programas G.DT
+[INFO] 20:05:04:871 Consola_S-AFA/(15731:15745): Ingrese la operacion deseada:
+[INFO] 20:05:04:871 Consola_S-AFA/(15731:15745): ejecutar RutaEncriptorio
+[INFO] 20:05:04:874 Consola_S-AFA/(15731:15745): status (ID_DTBLOCK)
+[INFO] 20:05:04:879 Consola_S-AFA/(15731:15745): finalizar ID_DTBLOCK
+[INFO] 20:05:04:882 Consola_S-AFA/(15731:15745): metricas (ID_DTBLOCK)
+[INFO] 20:05:10:910 Consola_S-AFA/(15731:15745): Se ingreso comando ejecutar
+[INFO] 20:05:10:914 Consola_S-AFA/(15731:15745): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:06:10:892 Consola_S-AFA/(15776:15789): Gestor de programas G.DT
+[INFO] 20:06:10:911 Consola_S-AFA/(15776:15789): Ingrese la operacion deseada:
+[INFO] 20:06:10:917 Consola_S-AFA/(15776:15789): ejecutar RutaEncriptorio
+[INFO] 20:06:10:922 Consola_S-AFA/(15776:15789): status (ID_DTBLOCK)
+[INFO] 20:06:10:929 Consola_S-AFA/(15776:15789): finalizar ID_DTBLOCK
+[INFO] 20:06:10:933 Consola_S-AFA/(15776:15789): metricas (ID_DTBLOCK)
+[INFO] 20:06:23:936 Consola_S-AFA/(15776:15789): Se ingreso comando ejecutar
+[INFO] 20:06:23:944 Consola_S-AFA/(15776:15789): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:07:14:6 Consola_S-AFA/(15807:15823): Gestor de programas G.DT
+[INFO] 20:07:15:28 Consola_S-AFA/(15807:15823): Ingrese la operacion deseada:
+[INFO] 20:07:15:32 Consola_S-AFA/(15807:15823): ejecutar RutaEncriptorio
+[INFO] 20:07:15:46 Consola_S-AFA/(15807:15823): status (ID_DTBLOCK)
+[INFO] 20:07:15:50 Consola_S-AFA/(15807:15823): finalizar ID_DTBLOCK
+[INFO] 20:07:15:54 Consola_S-AFA/(15807:15823): metricas (ID_DTBLOCK)
+[INFO] 20:07:21:667 Consola_S-AFA/(15807:15823): Se ingreso comando ejecutar
+[INFO] 20:07:21:673 Consola_S-AFA/(15807:15823): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:12:54:593 Consola_S-AFA/(16163:16189): Gestor de programas G.DT
+[INFO] 20:12:54:611 Consola_S-AFA/(16163:16189): Ingrese la operacion deseada:
+[INFO] 20:12:54:627 Consola_S-AFA/(16163:16189): ejecutar RutaEncriptorio
+[INFO] 20:12:54:632 Consola_S-AFA/(16163:16189): status (ID_DTBLOCK)
+[INFO] 20:12:54:636 Consola_S-AFA/(16163:16189): finalizar ID_DTBLOCK
+[INFO] 20:12:54:640 Consola_S-AFA/(16163:16189): metricas (ID_DTBLOCK)
+[INFO] 20:13:20:516 Consola_S-AFA/(16163:16189): Se ingreso comando ejecutar
+[INFO] 20:13:20:521 Consola_S-AFA/(16163:16189): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:14:08:135 Consola_S-AFA/(16163:16189): Se ingreso comando ejecutar
+[INFO] 20:14:08:182 Consola_S-AFA/(16163:16189): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:14:47:337 Consola_S-AFA/(16163:16189): Se ingreso comando ejecutar
+[INFO] 20:14:47:341 Consola_S-AFA/(16163:16189): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:16:08:889 Consola_S-AFA/(16163:16189): Se ingreso comando ejecutar
+[INFO] 20:16:08:895 Consola_S-AFA/(16163:16189): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:16:09:492 Consola_S-AFA/(16163:16189): Se ingreso comando ejecutar
+[INFO] 20:16:09:517 Consola_S-AFA/(16163:16189): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:16:11:533 Consola_S-AFA/(16163:16189): Se ingreso comando ejecutar
+[INFO] 20:16:11:540 Consola_S-AFA/(16163:16189): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:18:03:250 Consola_S-AFA/(16540:16553): Gestor de programas G.DT
+[INFO] 20:18:03:268 Consola_S-AFA/(16540:16553): Ingrese la operacion deseada:
+[INFO] 20:18:03:275 Consola_S-AFA/(16540:16553): ejecutar RutaEncriptorio
+[INFO] 20:18:03:284 Consola_S-AFA/(16540:16553): status (ID_DTBLOCK)
+[INFO] 20:18:03:292 Consola_S-AFA/(16540:16553): finalizar ID_DTBLOCK
+[INFO] 20:18:03:296 Consola_S-AFA/(16540:16553): metricas (ID_DTBLOCK)
+[INFO] 20:18:22:884 Consola_S-AFA/(16540:16553): Se ingreso comando ejecutar
+[INFO] 20:18:22:890 Consola_S-AFA/(16540:16553): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:19:08:212 Consola_S-AFA/(16582:16600): Gestor de programas G.DT
+[INFO] 20:19:08:238 Consola_S-AFA/(16582:16600): Ingrese la operacion deseada:
+[INFO] 20:19:08:251 Consola_S-AFA/(16582:16600): ejecutar RutaEncriptorio
+[INFO] 20:19:08:258 Consola_S-AFA/(16582:16600): status (ID_DTBLOCK)
+[INFO] 20:19:08:263 Consola_S-AFA/(16582:16600): finalizar ID_DTBLOCK
+[INFO] 20:19:08:267 Consola_S-AFA/(16582:16600): metricas (ID_DTBLOCK)
+[INFO] 20:19:13:969 Consola_S-AFA/(16582:16600): Se ingreso comando ejecutar
+[INFO] 20:19:13:976 Consola_S-AFA/(16582:16600): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:20:10:237 Consola_S-AFA/(16582:16600): Se ingreso comando ejecutar
+[INFO] 20:20:10:279 Consola_S-AFA/(16582:16600): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:20:35:21 Consola_S-AFA/(16582:16600): Se ingreso comando ejecutar
+[INFO] 20:20:35:27 Consola_S-AFA/(16582:16600): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:21:23:376 Consola_S-AFA/(16582:16600): Se ingreso comando ejecutar
+[INFO] 20:21:23:383 Consola_S-AFA/(16582:16600): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:21:23:576 Consola_S-AFA/(16582:16600): Se ingreso comando ejecutar
+[INFO] 20:21:23:604 Consola_S-AFA/(16582:16600): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:21:23:808 Consola_S-AFA/(16582:16600): Se ingreso comando ejecutar
+[INFO] 20:21:23:813 Consola_S-AFA/(16582:16600): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:23:43:877 Consola_S-AFA/(16921:16936): Gestor de programas G.DT
+[INFO] 20:23:43:892 Consola_S-AFA/(16921:16936): Ingrese la operacion deseada:
+[INFO] 20:23:43:892 Consola_S-AFA/(16921:16936): ejecutar RutaEncriptorio
+[INFO] 20:23:43:892 Consola_S-AFA/(16921:16936): status (ID_DTBLOCK)
+[INFO] 20:23:43:893 Consola_S-AFA/(16921:16936): finalizar ID_DTBLOCK
+[INFO] 20:23:43:893 Consola_S-AFA/(16921:16936): metricas (ID_DTBLOCK)
+[INFO] 20:24:05:102 Consola_S-AFA/(16921:16936): Se ingreso comando ejecutar
+[INFO] 20:24:05:106 Consola_S-AFA/(16921:16936): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:24:47:58 Consola_S-AFA/(16921:16936): Se ingreso comando ejecutar
+[INFO] 20:24:47:59 Consola_S-AFA/(16921:16936): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:24:47:95 Consola_S-AFA/(16921:16936): Se ingreso comando ejecutar
+[INFO] 20:24:47:95 Consola_S-AFA/(16921:16936): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:24:47:480 Consola_S-AFA/(16921:16936): Se ingreso comando ejecutar
+[INFO] 20:24:47:483 Consola_S-AFA/(16921:16936): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:25:24:994 Consola_S-AFA/(16921:16936): Se ingreso comando ejecutar
+[INFO] 20:25:24:996 Consola_S-AFA/(16921:16936): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:25:25:27 Consola_S-AFA/(16921:16936): Se ingreso comando ejecutar
+[INFO] 20:25:25:27 Consola_S-AFA/(16921:16936): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:25:25:476 Consola_S-AFA/(16921:16936): Se ingreso comando ejecutar
+[INFO] 20:25:25:481 Consola_S-AFA/(16921:16936): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:26:06:392 Consola_S-AFA/(17052:17068): Gestor de programas G.DT
+[INFO] 20:26:06:393 Consola_S-AFA/(17052:17068): Ingrese la operacion deseada:
+[INFO] 20:26:06:396 Consola_S-AFA/(17052:17068): ejecutar RutaEncriptorio
+[INFO] 20:26:06:399 Consola_S-AFA/(17052:17068): status (ID_DTBLOCK)
+[INFO] 20:26:06:402 Consola_S-AFA/(17052:17068): finalizar ID_DTBLOCK
+[INFO] 20:26:06:404 Consola_S-AFA/(17052:17068): metricas (ID_DTBLOCK)
+[INFO] 20:26:21:922 Consola_S-AFA/(17052:17068): Se ingreso comando ejecutar
+[INFO] 20:26:21:922 Consola_S-AFA/(17052:17068): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:26:21:950 Consola_S-AFA/(17052:17068): Se ingreso comando ejecutar
+[INFO] 20:26:21:953 Consola_S-AFA/(17052:17068): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:26:22:256 Consola_S-AFA/(17052:17068): Se ingreso comando ejecutar
+[INFO] 20:26:22:257 Consola_S-AFA/(17052:17068): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:26:57:554 Consola_S-AFA/(17118:17136): Gestor de programas G.DT
+[INFO] 20:26:57:575 Consola_S-AFA/(17118:17136): Ingrese la operacion deseada:
+[INFO] 20:26:57:577 Consola_S-AFA/(17118:17136): ejecutar RutaEncriptorio
+[INFO] 20:26:57:593 Consola_S-AFA/(17118:17136): status (ID_DTBLOCK)
+[INFO] 20:26:57:594 Consola_S-AFA/(17118:17136): finalizar ID_DTBLOCK
+[INFO] 20:26:57:594 Consola_S-AFA/(17118:17136): metricas (ID_DTBLOCK)
+[INFO] 20:27:08:413 Consola_S-AFA/(17118:17136): Se ingreso comando ejecutar
+[INFO] 20:27:08:414 Consola_S-AFA/(17118:17136): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:27:08:445 Consola_S-AFA/(17118:17136): Se ingreso comando ejecutar
+[INFO] 20:27:08:446 Consola_S-AFA/(17118:17136): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:27:08:677 Consola_S-AFA/(17118:17136): Se ingreso comando ejecutar
+[INFO] 20:27:08:683 Consola_S-AFA/(17118:17136): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:27:52:329 Consola_S-AFA/(17170:17181): Gestor de programas G.DT
+[INFO] 20:27:52:336 Consola_S-AFA/(17170:17181): Ingrese la operacion deseada:
+[INFO] 20:27:52:341 Consola_S-AFA/(17170:17181): ejecutar RutaEncriptorio
+[INFO] 20:27:52:348 Consola_S-AFA/(17170:17181): status (ID_DTBLOCK)
+[INFO] 20:27:52:349 Consola_S-AFA/(17170:17181): finalizar ID_DTBLOCK
+[INFO] 20:27:52:349 Consola_S-AFA/(17170:17181): metricas (ID_DTBLOCK)
+[INFO] 20:28:05:602 Consola_S-AFA/(17170:17181): Se ingreso comando ejecutar
+[INFO] 20:28:05:607 Consola_S-AFA/(17170:17181): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:28:37:427 Consola_S-AFA/(17170:17181): Se ingreso comando ejecutar
+[INFO] 20:28:37:432 Consola_S-AFA/(17170:17181): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:28:37:461 Consola_S-AFA/(17170:17181): Se ingreso comando ejecutar
+[INFO] 20:28:37:462 Consola_S-AFA/(17170:17181): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:28:37:773 Consola_S-AFA/(17170:17181): Se ingreso comando ejecutar
+[INFO] 20:28:37:777 Consola_S-AFA/(17170:17181): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:31:31:153 Consola_S-AFA/(17299:17312): Gestor de programas G.DT
+[INFO] 20:31:31:171 Consola_S-AFA/(17299:17312): Ingrese la operacion deseada:
+[INFO] 20:31:31:187 Consola_S-AFA/(17299:17312): ejecutar RutaEncriptorio
+[INFO] 20:31:31:192 Consola_S-AFA/(17299:17312): status (ID_DTBLOCK)
+[INFO] 20:31:31:196 Consola_S-AFA/(17299:17312): finalizar ID_DTBLOCK
+[INFO] 20:31:31:200 Consola_S-AFA/(17299:17312): metricas (ID_DTBLOCK)
+[INFO] 20:31:44:372 Consola_S-AFA/(17299:17312): Se ingreso comando ejecutar
+[INFO] 20:31:44:379 Consola_S-AFA/(17299:17312): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:32:22:888 Consola_S-AFA/(17299:17312): Se ingreso comando ejecutar
+[INFO] 20:32:22:923 Consola_S-AFA/(17299:17312): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:32:23:199 Consola_S-AFA/(17299:17312): Se ingreso comando ejecutar
+[INFO] 20:32:23:227 Consola_S-AFA/(17299:17312): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:32:23:409 Consola_S-AFA/(17299:17312): Se ingreso comando ejecutar
+[INFO] 20:32:23:413 Consola_S-AFA/(17299:17312): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:35:03:347 Consola_S-AFA/(17580:17594): Gestor de programas G.DT
+[INFO] 20:35:03:356 Consola_S-AFA/(17580:17594): Ingrese la operacion deseada:
+[INFO] 20:35:03:377 Consola_S-AFA/(17580:17594): ejecutar RutaEncriptorio
+[INFO] 20:35:03:382 Consola_S-AFA/(17580:17594): status (ID_DTBLOCK)
+[INFO] 20:35:03:389 Consola_S-AFA/(17580:17594): finalizar ID_DTBLOCK
+[INFO] 20:35:03:395 Consola_S-AFA/(17580:17594): metricas (ID_DTBLOCK)
+[INFO] 20:35:19:700 Consola_S-AFA/(17580:17594): Se ingreso comando ejecutar
+[INFO] 20:35:19:714 Consola_S-AFA/(17580:17594): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:35:20:73 Consola_S-AFA/(17580:17594): Se ingreso comando ejecutar
+[INFO] 20:35:20:123 Consola_S-AFA/(17580:17594): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:36:06:68 Consola_S-AFA/(17632:17646): Gestor de programas G.DT
+[INFO] 20:36:06:87 Consola_S-AFA/(17632:17646): Ingrese la operacion deseada:
+[INFO] 20:36:06:95 Consola_S-AFA/(17632:17646): ejecutar RutaEncriptorio
+[INFO] 20:36:06:99 Consola_S-AFA/(17632:17646): status (ID_DTBLOCK)
+[INFO] 20:36:06:104 Consola_S-AFA/(17632:17646): finalizar ID_DTBLOCK
+[INFO] 20:36:06:108 Consola_S-AFA/(17632:17646): metricas (ID_DTBLOCK)
+[INFO] 20:36:58:100 Consola_S-AFA/(17669:17687): Gestor de programas G.DT
+[INFO] 20:36:58:119 Consola_S-AFA/(17669:17687): Ingrese la operacion deseada:
+[INFO] 20:36:58:134 Consola_S-AFA/(17669:17687): ejecutar RutaEncriptorio
+[INFO] 20:36:58:138 Consola_S-AFA/(17669:17687): status (ID_DTBLOCK)
+[INFO] 20:36:58:142 Consola_S-AFA/(17669:17687): finalizar ID_DTBLOCK
+[INFO] 20:36:58:146 Consola_S-AFA/(17669:17687): metricas (ID_DTBLOCK)
+[INFO] 20:37:29:670 Consola_S-AFA/(17669:17687): Se ingreso comando ejecutar
+[INFO] 20:37:29:677 Consola_S-AFA/(17669:17687): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:37:31:319 Consola_S-AFA/(17669:17687): Se ingreso comando ejecutar
+[INFO] 20:37:31:369 Consola_S-AFA/(17669:17687): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:40:42:859 Consola_S-AFA/(17937:17947): Gestor de programas G.DT
+[INFO] 20:40:42:866 Consola_S-AFA/(17937:17947): Ingrese la operacion deseada:
+[INFO] 20:40:42:872 Consola_S-AFA/(17937:17947): ejecutar RutaEncriptorio
+[INFO] 20:40:42:877 Consola_S-AFA/(17937:17947): status (ID_DTBLOCK)
+[INFO] 20:40:42:883 Consola_S-AFA/(17937:17947): finalizar ID_DTBLOCK
+[INFO] 20:40:42:888 Consola_S-AFA/(17937:17947): metricas (ID_DTBLOCK)
+[INFO] 20:40:55:596 Consola_S-AFA/(17937:17947): Se ingreso comando ejecutar
+[INFO] 20:40:55:601 Consola_S-AFA/(17937:17947): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:40:55:635 Consola_S-AFA/(17937:17947): Se ingreso comando ejecutar
+[INFO] 20:40:55:635 Consola_S-AFA/(17937:17947): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:40:55:863 Consola_S-AFA/(17937:17947): Se ingreso comando ejecutar
+[INFO] 20:40:55:863 Consola_S-AFA/(17937:17947): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:41:59:848 Consola_S-AFA/(18006:18058): Gestor de programas G.DT
+[INFO] 20:41:59:859 Consola_S-AFA/(18006:18058): Ingrese la operacion deseada:
+[INFO] 20:41:59:859 Consola_S-AFA/(18006:18058): ejecutar RutaEncriptorio
+[INFO] 20:41:59:860 Consola_S-AFA/(18006:18058): status (ID_DTBLOCK)
+[INFO] 20:41:59:870 Consola_S-AFA/(18006:18058): finalizar ID_DTBLOCK
+[INFO] 20:41:59:871 Consola_S-AFA/(18006:18058): metricas (ID_DTBLOCK)
+[INFO] 20:42:10:778 Consola_S-AFA/(18006:18058): Se ingreso comando ejecutar
+[INFO] 20:42:10:780 Consola_S-AFA/(18006:18058): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:42:10:820 Consola_S-AFA/(18006:18058): Se ingreso comando ejecutar
+[INFO] 20:42:10:821 Consola_S-AFA/(18006:18058): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:42:11:160 Consola_S-AFA/(18006:18058): Se ingreso comando ejecutar
+[INFO] 20:42:11:162 Consola_S-AFA/(18006:18058): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:42:48:844 Consola_S-AFA/(18006:18058): Se ingreso comando ejecutar
+[INFO] 20:42:48:844 Consola_S-AFA/(18006:18058): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:42:49:516 Consola_S-AFA/(18006:18058): Se ingreso comando ejecutar
+[INFO] 20:42:49:516 Consola_S-AFA/(18006:18058): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:49:48:370 Consola_S-AFA/(18493:18506): Gestor de programas G.DT
+[INFO] 20:49:48:375 Consola_S-AFA/(18493:18506): Ingrese la operacion deseada:
+[INFO] 20:49:48:379 Consola_S-AFA/(18493:18506): ejecutar RutaEncriptorio
+[INFO] 20:49:48:381 Consola_S-AFA/(18493:18506): status (ID_DTBLOCK)
+[INFO] 20:49:48:383 Consola_S-AFA/(18493:18506): finalizar ID_DTBLOCK
+[INFO] 20:49:48:384 Consola_S-AFA/(18493:18506): metricas (ID_DTBLOCK)
+[INFO] 20:50:23:855 Consola_S-AFA/(18493:18506): Se ingreso comando ejecutar
+[INFO] 20:50:23:856 Consola_S-AFA/(18493:18506): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:50:23:912 Consola_S-AFA/(18493:18506): Se ingreso comando ejecutar
+[INFO] 20:50:23:913 Consola_S-AFA/(18493:18506): Se reservo una CPU para el nuevo escriptorio
+[INFO] 20:50:24:254 Consola_S-AFA/(18493:18506): Se ingreso comando ejecutar
+[INFO] 20:50:24:258 Consola_S-AFA/(18493:18506): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:03:38:272 Consola_S-AFA/(19266:19296): Gestor de programas G.DT
+[INFO] 21:03:38:301 Consola_S-AFA/(19266:19296): Ingrese la operacion deseada:
+[INFO] 21:03:38:309 Consola_S-AFA/(19266:19296): ejecutar RutaEncriptorio
+[INFO] 21:03:38:315 Consola_S-AFA/(19266:19296): status (ID_DTBLOCK)
+[INFO] 21:03:38:319 Consola_S-AFA/(19266:19296): finalizar ID_DTBLOCK
+[INFO] 21:03:38:329 Consola_S-AFA/(19266:19296): metricas (ID_DTBLOCK)
+[INFO] 21:03:52:471 Consola_S-AFA/(19266:19296): Se ingreso comando ejecutar
+[INFO] 21:03:52:479 Consola_S-AFA/(19266:19296): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:04:21:110 Consola_S-AFA/(19266:19296): Se ingreso comando ejecutar
+[INFO] 21:04:21:156 Consola_S-AFA/(19266:19296): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:05:30:837 Consola_S-AFA/(19266:19296): Se ingreso comando ejecutar
+[INFO] 21:05:30:847 Consola_S-AFA/(19266:19296): Se reservo una CPU para el nuevo escriptorio
+[INFO] 21:05:32:439 Consola_S-AFA/(19266:19296): Se ingreso comando ejecutar
+[INFO] 21:05:32:476 Consola_S-AFA/(19266:19296): Se reservo una CPU para el nuevo escriptorio
+[INFO] 23:08:52:530 Consola_S-AFA/(25286:25297): Gestor de programas G.DT
+[INFO] 23:08:52:537 Consola_S-AFA/(25286:25297): Ingrese la operacion deseada:
+[INFO] 23:08:52:544 Consola_S-AFA/(25286:25297): ejecutar RutaEncriptorio
+[INFO] 23:08:52:548 Consola_S-AFA/(25286:25297): status (ID_DTBLOCK)
+[INFO] 23:08:52:550 Consola_S-AFA/(25286:25297): finalizar ID_DTBLOCK
+[INFO] 23:08:52:551 Consola_S-AFA/(25286:25297): metricas (ID_DTBLOCK)
+[INFO] 23:09:33:643 Consola_S-AFA/(25286:25297): Se ingreso comando ejecutar
+[INFO] 23:09:33:679 Consola_S-AFA/(25286:25297): Se ingreso comando ejecutar
+[INFO] 23:09:34:143 Consola_S-AFA/(25286:25297): Se ingreso comando ejecutar
+[INFO] 23:26:17:694 Consola_S-AFA/(26216:26395): Gestor de programas G.DT
+[INFO] 23:26:17:704 Consola_S-AFA/(26216:26395): Ingrese la operacion deseada:
+[INFO] 23:26:17:704 Consola_S-AFA/(26216:26395): ejecutar RutaEncriptorio
+[INFO] 23:26:17:705 Consola_S-AFA/(26216:26395): status (ID_DTBLOCK)
+[INFO] 23:26:17:705 Consola_S-AFA/(26216:26395): finalizar ID_DTBLOCK
+[INFO] 23:26:17:705 Consola_S-AFA/(26216:26395): metricas (ID_DTBLOCK)
+[INFO] 23:26:35:489 Consola_S-AFA/(26216:26395): Se ingreso comando ejecutar
+[INFO] 23:26:35:524 Consola_S-AFA/(26216:26395): Se ingreso comando ejecutar
+[INFO] 23:26:35:937 Consola_S-AFA/(26216:26395): Se ingreso comando ejecutar
+[INFO] 23:27:00:456 Consola_S-AFA/(26421:26435): Gestor de programas G.DT
+[INFO] 23:27:00:461 Consola_S-AFA/(26421:26435): Ingrese la operacion deseada:
+[INFO] 23:27:00:464 Consola_S-AFA/(26421:26435): ejecutar RutaEncriptorio
+[INFO] 23:27:00:465 Consola_S-AFA/(26421:26435): status (ID_DTBLOCK)
+[INFO] 23:27:00:471 Consola_S-AFA/(26421:26435): finalizar ID_DTBLOCK
+[INFO] 23:27:00:472 Consola_S-AFA/(26421:26435): metricas (ID_DTBLOCK)
+[INFO] 23:27:55:412 Consola_S-AFA/(26465:26481): Gestor de programas G.DT
+[INFO] 23:27:55:415 Consola_S-AFA/(26465:26481): Ingrese la operacion deseada:
+[INFO] 23:27:55:426 Consola_S-AFA/(26465:26481): ejecutar RutaEncriptorio
+[INFO] 23:27:55:426 Consola_S-AFA/(26465:26481): status (ID_DTBLOCK)
+[INFO] 23:27:55:427 Consola_S-AFA/(26465:26481): finalizar ID_DTBLOCK
+[INFO] 23:27:55:429 Consola_S-AFA/(26465:26481): metricas (ID_DTBLOCK)
+[INFO] 23:28:08:894 Consola_S-AFA/(26465:26481): Se ingreso comando ejecutar
+[INFO] 23:28:08:922 Consola_S-AFA/(26465:26481): Se ingreso comando ejecutar
+[INFO] 23:28:09:370 Consola_S-AFA/(26465:26481): Se ingreso comando ejecutar
+[INFO] 23:36:19:100 Consola_S-AFA/(26807:26817): Gestor de programas G.DT
+[INFO] 23:36:19:105 Consola_S-AFA/(26807:26817): Ingrese la operacion deseada:
+[INFO] 23:36:19:110 Consola_S-AFA/(26807:26817): ejecutar RutaEncriptorio
+[INFO] 23:36:19:111 Consola_S-AFA/(26807:26817): status (ID_DTBLOCK)
+[INFO] 23:36:19:112 Consola_S-AFA/(26807:26817): finalizar ID_DTBLOCK
+[INFO] 23:36:19:112 Consola_S-AFA/(26807:26817): metricas (ID_DTBLOCK)
+[INFO] 23:36:27:901 Consola_S-AFA/(26807:26817): Se ingreso comando ejecutar
+[INFO] 23:43:27:685 Consola_S-AFA/(26984:27005): Gestor de programas G.DT
+[INFO] 23:43:27:690 Consola_S-AFA/(26984:27005): Ingrese la operacion deseada:
+[INFO] 23:43:27:694 Consola_S-AFA/(26984:27005): ejecutar RutaEncriptorio
+[INFO] 23:43:27:698 Consola_S-AFA/(26984:27005): status (ID_DTBLOCK)
+[INFO] 23:43:27:700 Consola_S-AFA/(26984:27005): finalizar ID_DTBLOCK
+[INFO] 23:43:27:705 Consola_S-AFA/(26984:27005): metricas (ID_DTBLOCK)
+[INFO] 23:43:41:797 Consola_S-AFA/(26984:27005): Se ingreso comando ejecutar
+[INFO] 23:50:24:397 Consola_S-AFA/(27563:27587): Gestor de programas G.DT
+[INFO] 23:50:24:424 Consola_S-AFA/(27563:27587): Ingrese la operacion deseada:
+[INFO] 23:50:24:424 Consola_S-AFA/(27563:27587): ejecutar RutaEncriptorio
+[INFO] 23:50:24:425 Consola_S-AFA/(27563:27587): status (ID_DTBLOCK)
+[INFO] 23:50:24:425 Consola_S-AFA/(27563:27587): finalizar ID_DTBLOCK
+[INFO] 23:50:24:425 Consola_S-AFA/(27563:27587): metricas (ID_DTBLOCK)
+[INFO] 23:50:37:701 Consola_S-AFA/(27563:27587): Se ingreso comando ejecutar
+[INFO] 16:00:12:403 Consola_S-AFA/(6696:6707): Gestor de programas G.DT
+[INFO] 16:00:12:468 Consola_S-AFA/(6696:6707): Ingrese la operacion deseada:
+[INFO] 16:00:12:468 Consola_S-AFA/(6696:6707): ejecutar RutaEncriptorio
+[INFO] 16:00:12:469 Consola_S-AFA/(6696:6707): status (ID_DTBLOCK)
+[INFO] 16:00:12:469 Consola_S-AFA/(6696:6707): finalizar ID_DTBLOCK
+[INFO] 16:00:12:469 Consola_S-AFA/(6696:6707): metricas (ID_DTBLOCK)
+[INFO] 16:00:31:19 Consola_S-AFA/(6696:6707): Se ingreso comando ejecutar
+[ERROR] 16:01:44:952 Consola_S-AFA/(6696:6707): No se reconocio el comando
+[ERROR] 16:01:47:469 Consola_S-AFA/(6696:6707): No se reconocio el comando
+[INFO] 16:06:22:5 Consola_S-AFA/(7041:7063): Gestor de programas G.DT
+[INFO] 16:06:22:8 Consola_S-AFA/(7041:7063): Ingrese la operacion deseada:
+[INFO] 16:06:22:9 Consola_S-AFA/(7041:7063): ejecutar RutaEncriptorio
+[INFO] 16:06:22:10 Consola_S-AFA/(7041:7063): status (ID_DTBLOCK)
+[INFO] 16:06:22:20 Consola_S-AFA/(7041:7063): finalizar ID_DTBLOCK
+[INFO] 16:06:22:22 Consola_S-AFA/(7041:7063): metricas (ID_DTBLOCK)
+[INFO] 16:06:45:900 Consola_S-AFA/(7041:7063): Se ingreso comando ejecutar
+[INFO] 16:10:48:882 Consola_S-AFA/(7041:7063): Se ingreso comando ejecutar
+[INFO] 16:12:44:979 Consola_S-AFA/(7041:7063): Se ingreso comando ejecutar
+[INFO] 16:16:37:826 Consola_S-AFA/(7438:7451): Gestor de programas G.DT
+[INFO] 16:16:37:830 Consola_S-AFA/(7438:7451): Ingrese la operacion deseada:
+[INFO] 16:16:37:833 Consola_S-AFA/(7438:7451): ejecutar RutaEncriptorio
+[INFO] 16:16:37:834 Consola_S-AFA/(7438:7451): status (ID_DTBLOCK)
+[INFO] 16:16:37:834 Consola_S-AFA/(7438:7451): finalizar ID_DTBLOCK
+[INFO] 16:16:37:834 Consola_S-AFA/(7438:7451): metricas (ID_DTBLOCK)
+[INFO] 16:17:06:294 Consola_S-AFA/(7438:7451): Se ingreso comando ejecutar
+[INFO] 16:17:06:339 Consola_S-AFA/(7438:7451): Se ingreso comando ejecutar
+[INFO] 16:17:06:678 Consola_S-AFA/(7438:7451): Se ingreso comando ejecutar
+[INFO] 16:31:17:873 Consola_S-AFA/(7438:7451): Se ingreso comando ejecutar
+[INFO] 16:31:18:878 Consola_S-AFA/(7438:7451): Se ingreso comando ejecutar
+[INFO] 16:33:02:650 Consola_S-AFA/(8233:8244): Gestor de programas G.DT
+[INFO] 16:33:02:656 Consola_S-AFA/(8233:8244): Ingrese la operacion deseada:
+[INFO] 16:33:02:678 Consola_S-AFA/(8233:8244): ejecutar RutaEncriptorio
+[INFO] 16:33:02:686 Consola_S-AFA/(8233:8244): status (ID_DTBLOCK)
+[INFO] 16:33:02:686 Consola_S-AFA/(8233:8244): finalizar ID_DTBLOCK
+[INFO] 16:33:02:688 Consola_S-AFA/(8233:8244): metricas (ID_DTBLOCK)
+[INFO] 16:34:09:554 Consola_S-AFA/(8233:8244): Se ingreso comando ejecutar
+[INFO] 16:34:09:871 Consola_S-AFA/(8233:8244): Se ingreso comando ejecutar
+[INFO] 16:34:35:8 Consola_S-AFA/(8307:8320): Gestor de programas G.DT
+[INFO] 16:34:35:12 Consola_S-AFA/(8307:8320): Ingrese la operacion deseada:
+[INFO] 16:34:35:14 Consola_S-AFA/(8307:8320): ejecutar RutaEncriptorio
+[INFO] 16:34:35:14 Consola_S-AFA/(8307:8320): status (ID_DTBLOCK)
+[INFO] 16:34:35:14 Consola_S-AFA/(8307:8320): finalizar ID_DTBLOCK
+[INFO] 16:34:35:16 Consola_S-AFA/(8307:8320): metricas (ID_DTBLOCK)
+[INFO] 16:34:41:246 Consola_S-AFA/(8307:8320): Se ingreso comando ejecutar
+[INFO] 16:34:41:615 Consola_S-AFA/(8307:8320): Se ingreso comando ejecutar
+[INFO] 16:46:49:215 Consola_S-AFA/(8971:8981): Gestor de programas G.DT
+[INFO] 16:46:49:224 Consola_S-AFA/(8971:8981): Ingrese la operacion deseada:
+[INFO] 16:46:49:225 Consola_S-AFA/(8971:8981): ejecutar RutaEncriptorio
+[INFO] 16:46:49:225 Consola_S-AFA/(8971:8981): status (ID_DTBLOCK)
+[INFO] 16:46:49:225 Consola_S-AFA/(8971:8981): finalizar ID_DTBLOCK
+[INFO] 16:46:49:226 Consola_S-AFA/(8971:8981): metricas (ID_DTBLOCK)
+[INFO] 16:47:18:103 Consola_S-AFA/(8971:8981): Se ingreso comando ejecutar
+[INFO] 16:47:18:427 Consola_S-AFA/(8971:8981): Se ingreso comando ejecutar
+[INFO] 17:39:09:513 Consola_S-AFA/(11035:11072): Gestor de programas G.DT
+[INFO] 17:39:09:518 Consola_S-AFA/(11035:11072): Ingrese la operacion deseada:
+[INFO] 17:39:09:519 Consola_S-AFA/(11035:11072): ejecutar RutaEncriptorio
+[INFO] 17:39:09:522 Consola_S-AFA/(11035:11072): status (ID_DTBLOCK)
+[INFO] 17:39:09:523 Consola_S-AFA/(11035:11072): finalizar ID_DTBLOCK
+[INFO] 17:39:09:532 Consola_S-AFA/(11035:11072): metricas (ID_DTBLOCK)
+[INFO] 17:39:37:533 Consola_S-AFA/(11035:11072): Se ingreso comando ejecutar
+[INFO] 19:34:42:642 Consola_S-AFA/(17518:17550): Gestor de programas G.DT
+[INFO] 19:34:42:662 Consola_S-AFA/(17518:17550): Ingrese la operacion deseada:
+[INFO] 19:34:42:678 Consola_S-AFA/(17518:17550): ejecutar RutaEncriptorio
+[INFO] 19:34:42:682 Consola_S-AFA/(17518:17550): status (ID_DTBLOCK)
+[INFO] 19:34:42:684 Consola_S-AFA/(17518:17550): finalizar ID_DTBLOCK
+[INFO] 19:34:42:686 Consola_S-AFA/(17518:17550): metricas (ID_DTBLOCK)
+[INFO] 19:35:15:31 Consola_S-AFA/(17518:17550): Se ingreso comando ejecutar
+[INFO] 19:35:58:460 Consola_S-AFA/(17607:17622): Gestor de programas G.DT
+[INFO] 19:35:58:475 Consola_S-AFA/(17607:17622): Ingrese la operacion deseada:
+[INFO] 19:35:58:476 Consola_S-AFA/(17607:17622): ejecutar RutaEncriptorio
+[INFO] 19:35:58:476 Consola_S-AFA/(17607:17622): status (ID_DTBLOCK)
+[INFO] 19:35:58:479 Consola_S-AFA/(17607:17622): finalizar ID_DTBLOCK
+[INFO] 19:35:58:481 Consola_S-AFA/(17607:17622): metricas (ID_DTBLOCK)
+[INFO] 19:36:04:42 Consola_S-AFA/(17607:17622): Se ingreso comando ejecutar
+[INFO] 19:38:50:693 Consola_S-AFA/(17668:17679): Gestor de programas G.DT
+[INFO] 19:38:50:703 Consola_S-AFA/(17668:17679): Ingrese la operacion deseada:
+[INFO] 19:38:50:703 Consola_S-AFA/(17668:17679): ejecutar RutaEncriptorio
+[INFO] 19:38:50:708 Consola_S-AFA/(17668:17679): status (ID_DTBLOCK)
+[INFO] 19:38:50:713 Consola_S-AFA/(17668:17679): finalizar ID_DTBLOCK
+[INFO] 19:38:50:716 Consola_S-AFA/(17668:17679): metricas (ID_DTBLOCK)
+[INFO] 19:39:09:299 Consola_S-AFA/(17668:17679): Se ingreso comando ejecutar
+[INFO] 19:40:33:552 Consola_S-AFA/(17730:17743): Gestor de programas G.DT
+[INFO] 19:40:33:560 Consola_S-AFA/(17730:17743): Ingrese la operacion deseada:
+[INFO] 19:40:33:560 Consola_S-AFA/(17730:17743): ejecutar RutaEncriptorio
+[INFO] 19:40:33:560 Consola_S-AFA/(17730:17743): status (ID_DTBLOCK)
+[INFO] 19:40:33:562 Consola_S-AFA/(17730:17743): finalizar ID_DTBLOCK
+[INFO] 19:40:33:569 Consola_S-AFA/(17730:17743): metricas (ID_DTBLOCK)
+[INFO] 19:40:42:380 Consola_S-AFA/(17730:17743): Se ingreso comando ejecutar
+[INFO] 19:44:25:616 Consola_S-AFA/(17866:17876): Gestor de programas G.DT
+[INFO] 19:44:25:620 Consola_S-AFA/(17866:17876): Ingrese la operacion deseada:
+[INFO] 19:44:25:622 Consola_S-AFA/(17866:17876): ejecutar RutaEncriptorio
+[INFO] 19:44:25:624 Consola_S-AFA/(17866:17876): status (ID_DTBLOCK)
+[INFO] 19:44:25:627 Consola_S-AFA/(17866:17876): finalizar ID_DTBLOCK
+[INFO] 19:44:25:629 Consola_S-AFA/(17866:17876): metricas (ID_DTBLOCK)
+[INFO] 19:44:34:415 Consola_S-AFA/(17866:17876): Se ingreso comando ejecutar
+[INFO] 19:48:16:819 Consola_S-AFA/(18035:18054): Gestor de programas G.DT
+[INFO] 19:48:16:823 Consola_S-AFA/(18035:18054): Ingrese la operacion deseada:
+[INFO] 19:48:16:826 Consola_S-AFA/(18035:18054): ejecutar RutaEncriptorio
+[INFO] 19:48:16:830 Consola_S-AFA/(18035:18054): status (ID_DTBLOCK)
+[INFO] 19:48:16:831 Consola_S-AFA/(18035:18054): finalizar ID_DTBLOCK
+[INFO] 19:48:16:832 Consola_S-AFA/(18035:18054): metricas (ID_DTBLOCK)
+[INFO] 19:48:29:506 Consola_S-AFA/(18035:18054): Se ingreso comando ejecutar
+[INFO] 19:53:07:223 Consola_S-AFA/(18409:18431): Gestor de programas G.DT
+[INFO] 19:53:07:226 Consola_S-AFA/(18409:18431): Ingrese la operacion deseada:
+[INFO] 19:53:07:226 Consola_S-AFA/(18409:18431): ejecutar RutaEncriptorio
+[INFO] 19:53:07:227 Consola_S-AFA/(18409:18431): status (ID_DTBLOCK)
+[INFO] 19:53:07:240 Consola_S-AFA/(18409:18431): finalizar ID_DTBLOCK
+[INFO] 19:53:07:240 Consola_S-AFA/(18409:18431): metricas (ID_DTBLOCK)
+[INFO] 19:53:49:254 Consola_S-AFA/(18409:18431): Se ingreso comando ejecutar
+[INFO] 19:54:56:716 Consola_S-AFA/(18409:18431): Se ingreso comando ejecutar
+[INFO] 19:55:18:221 Consola_S-AFA/(18409:18431): Se ingreso comando ejecutar
+[INFO] 19:55:58:242 Consola_S-AFA/(18409:18431): Se ingreso comando ejecutar
+[INFO] 19:55:58:279 Consola_S-AFA/(18409:18431): Se ingreso comando ejecutar
+[INFO] 19:55:58:626 Consola_S-AFA/(18409:18431): Se ingreso comando ejecutar
+[INFO] 19:57:27:43 Consola_S-AFA/(18409:18431): Se ingreso comando ejecutar
+[INFO] 19:57:28:67 Consola_S-AFA/(18409:18431): Se ingreso comando ejecutar
+[INFO] 19:57:57:532 Consola_S-AFA/(18731:18744): Gestor de programas G.DT
+[INFO] 19:57:57:537 Consola_S-AFA/(18731:18744): Ingrese la operacion deseada:
+[INFO] 19:57:57:541 Consola_S-AFA/(18731:18744): ejecutar RutaEncriptorio
+[INFO] 19:57:57:546 Consola_S-AFA/(18731:18744): status (ID_DTBLOCK)
+[INFO] 19:57:57:555 Consola_S-AFA/(18731:18744): finalizar ID_DTBLOCK
+[INFO] 19:57:57:556 Consola_S-AFA/(18731:18744): metricas (ID_DTBLOCK)
+[INFO] 19:58:02:313 Consola_S-AFA/(18731:18744): Se ingreso comando ejecutar
+[INFO] 19:58:03:39 Consola_S-AFA/(18731:18744): Se ingreso comando ejecutar
+[INFO] 20:02:27:169 Consola_S-AFA/(18929:18948): Gestor de programas G.DT
+[INFO] 20:02:27:174 Consola_S-AFA/(18929:18948): Ingrese la operacion deseada:
+[INFO] 20:02:27:177 Consola_S-AFA/(18929:18948): ejecutar RutaEncriptorio
+[INFO] 20:02:27:180 Consola_S-AFA/(18929:18948): status (ID_DTBLOCK)
+[INFO] 20:02:27:183 Consola_S-AFA/(18929:18948): finalizar ID_DTBLOCK
+[INFO] 20:02:27:185 Consola_S-AFA/(18929:18948): metricas (ID_DTBLOCK)
+[INFO] 20:02:33:235 Consola_S-AFA/(18929:18948): Se ingreso comando ejecutar
+[INFO] 20:02:33:551 Consola_S-AFA/(18929:18948): Se ingreso comando ejecutar
+[INFO] 20:06:31:203 Consola_S-AFA/(19260:19277): Gestor de programas G.DT
+[INFO] 20:06:31:207 Consola_S-AFA/(19260:19277): Ingrese la operacion deseada:
+[INFO] 20:06:31:207 Consola_S-AFA/(19260:19277): ejecutar RutaEncriptorio
+[INFO] 20:06:31:208 Consola_S-AFA/(19260:19277): status (ID_DTBLOCK)
+[INFO] 20:06:31:208 Consola_S-AFA/(19260:19277): finalizar ID_DTBLOCK
+[INFO] 20:06:31:209 Consola_S-AFA/(19260:19277): metricas (ID_DTBLOCK)
+[INFO] 20:06:39:756 Consola_S-AFA/(19260:19277): Se ingreso comando ejecutar
+[INFO] 20:06:40:58 Consola_S-AFA/(19260:19277): Se ingreso comando ejecutar
+[INFO] 20:15:25:603 Consola_S-AFA/(19638:19649): Gestor de programas G.DT
+[INFO] 20:15:25:623 Consola_S-AFA/(19638:19649): Ingrese la operacion deseada:
+[INFO] 20:15:25:624 Consola_S-AFA/(19638:19649): ejecutar RutaEncriptorio
+[INFO] 20:15:25:624 Consola_S-AFA/(19638:19649): status (ID_DTBLOCK)
+[INFO] 20:15:25:625 Consola_S-AFA/(19638:19649): finalizar ID_DTBLOCK
+[INFO] 20:15:25:629 Consola_S-AFA/(19638:19649): metricas (ID_DTBLOCK)
+[INFO] 20:16:02:598 Consola_S-AFA/(19638:19649): Se ingreso comando ejecutar
+[INFO] 20:16:59:877 Consola_S-AFA/(19638:19649): Se ingreso comando ejecutar
+[INFO] 20:17:00:171 Consola_S-AFA/(19638:19649): Se ingreso comando ejecutar
+[ERROR] 20:21:49:383 Consola_S-AFA/(19638:19649): No se reconocio el comando
+[INFO] 20:25:15:678 Consola_S-AFA/(19905:19918): Gestor de programas G.DT
+[INFO] 20:25:15:683 Consola_S-AFA/(19905:19918): Ingrese la operacion deseada:
+[INFO] 20:25:15:685 Consola_S-AFA/(19905:19918): ejecutar RutaEncriptorio
+[INFO] 20:25:15:686 Consola_S-AFA/(19905:19918): status (ID_DTBLOCK)
+[INFO] 20:25:15:688 Consola_S-AFA/(19905:19918): finalizar ID_DTBLOCK
+[INFO] 20:25:15:689 Consola_S-AFA/(19905:19918): metricas (ID_DTBLOCK)
+[INFO] 20:25:33:705 Consola_S-AFA/(19905:19918): Se ingreso comando ejecutar
+[INFO] 20:26:04:257 Consola_S-AFA/(19905:19918): Se ingreso comando ejecutar
+[INFO] 20:26:04:581 Consola_S-AFA/(19905:19918): Se ingreso comando ejecutar
+[INFO] 20:33:37:93 Consola_S-AFA/(20426:20436): Gestor de programas G.DT
+[INFO] 20:33:37:106 Consola_S-AFA/(20426:20436): Ingrese la operacion deseada:
+[INFO] 20:33:37:107 Consola_S-AFA/(20426:20436): ejecutar RutaEncriptorio
+[INFO] 20:33:37:107 Consola_S-AFA/(20426:20436): status (ID_DTBLOCK)
+[INFO] 20:33:37:108 Consola_S-AFA/(20426:20436): finalizar ID_DTBLOCK
+[INFO] 20:33:37:111 Consola_S-AFA/(20426:20436): metricas (ID_DTBLOCK)
+[INFO] 20:33:46:256 Consola_S-AFA/(20426:20436): Se ingreso comando ejecutar
+[INFO] 20:33:46:703 Consola_S-AFA/(20426:20436): Se ingreso comando ejecutar
+[INFO] 20:35:20:167 Consola_S-AFA/(20426:20436): Se ingreso comando ejecutar
+[INFO] 20:35:20:197 Consola_S-AFA/(20426:20436): Se ingreso comando ejecutar
+[INFO] 20:35:20:590 Consola_S-AFA/(20426:20436): Se ingreso comando ejecutar
+[INFO] 20:36:16:733 Consola_S-AFA/(20426:20436): Se ingreso comando ejecutar
+[INFO] 20:36:17:126 Consola_S-AFA/(20426:20436): Se ingreso comando ejecutar
+[INFO] 20:48:48:939 Consola_S-AFA/(21450:21477): Gestor de programas G.DT
+[INFO] 20:48:48:954 Consola_S-AFA/(21450:21477): Ingrese la operacion deseada:
+[INFO] 20:48:48:959 Consola_S-AFA/(21450:21477): ejecutar RutaEncriptorio
+[INFO] 20:48:48:961 Consola_S-AFA/(21450:21477): status (ID_DTBLOCK)
+[INFO] 20:48:48:965 Consola_S-AFA/(21450:21477): finalizar ID_DTBLOCK
+[INFO] 20:48:48:967 Consola_S-AFA/(21450:21477): metricas (ID_DTBLOCK)
+[INFO] 20:49:44:778 Consola_S-AFA/(21450:21477): Se ingreso comando ejecutar
+[INFO] 20:49:44:816 Consola_S-AFA/(21450:21477): Se ingreso comando ejecutar
+[INFO] 20:49:45:238 Consola_S-AFA/(21450:21477): Se ingreso comando ejecutar
+[INFO] 20:50:58:970 Consola_S-AFA/(21684:21697): Gestor de programas G.DT
+[INFO] 20:50:58:973 Consola_S-AFA/(21684:21697): Ingrese la operacion deseada:
+[INFO] 20:50:58:980 Consola_S-AFA/(21684:21697): ejecutar RutaEncriptorio
+[INFO] 20:50:58:981 Consola_S-AFA/(21684:21697): status (ID_DTBLOCK)
+[INFO] 20:50:58:981 Consola_S-AFA/(21684:21697): finalizar ID_DTBLOCK
+[INFO] 20:50:58:982 Consola_S-AFA/(21684:21697): metricas (ID_DTBLOCK)
+[INFO] 20:51:11:501 Consola_S-AFA/(21684:21697): Se ingreso comando ejecutar
+[INFO] 20:51:11:534 Consola_S-AFA/(21684:21697): Se ingreso comando ejecutar
+[INFO] 20:51:11:862 Consola_S-AFA/(21684:21697): Se ingreso comando ejecutar
+[INFO] 20:55:49:190 Consola_S-AFA/(21969:21982): Gestor de programas G.DT
+[INFO] 20:55:49:201 Consola_S-AFA/(21969:21982): Ingrese la operacion deseada:
+[INFO] 20:55:49:201 Consola_S-AFA/(21969:21982): ejecutar RutaEncriptorio
+[INFO] 20:55:49:202 Consola_S-AFA/(21969:21982): status (ID_DTBLOCK)
+[INFO] 20:55:49:206 Consola_S-AFA/(21969:21982): finalizar ID_DTBLOCK
+[INFO] 20:55:49:217 Consola_S-AFA/(21969:21982): metricas (ID_DTBLOCK)
+[INFO] 20:56:04:892 Consola_S-AFA/(21969:21982): Se ingreso comando ejecutar
+[ERROR] 20:56:28:449 Consola_S-AFA/(21969:21982): No se reconocio el comando
+[INFO] 20:56:40:796 Consola_S-AFA/(21969:21982): Se ingreso comando ejecutar
+[INFO] 20:56:40:832 Consola_S-AFA/(21969:21982): Se ingreso comando ejecutar
+[INFO] 20:56:41:98 Consola_S-AFA/(21969:21982): Se ingreso comando ejecutar
+[INFO] 20:57:48:948 Consola_S-AFA/(21969:21982): Se ingreso comando ejecutar
+[INFO] 20:57:49:122 Consola_S-AFA/(21969:21982): Se ingreso comando ejecutar
+[INFO] 21:07:26:475 Consola_S-AFA/(22781:22795): Gestor de programas G.DT
+[INFO] 21:07:26:481 Consola_S-AFA/(22781:22795): Ingrese la operacion deseada:
+[INFO] 21:07:26:482 Consola_S-AFA/(22781:22795): ejecutar RutaEncriptorio
+[INFO] 21:07:26:483 Consola_S-AFA/(22781:22795): status (ID_DTBLOCK)
+[INFO] 21:07:26:483 Consola_S-AFA/(22781:22795): finalizar ID_DTBLOCK
+[INFO] 21:07:26:488 Consola_S-AFA/(22781:22795): metricas (ID_DTBLOCK)
+[INFO] 21:07:47:474 Consola_S-AFA/(22781:22795): Se ingreso comando ejecutar
+[INFO] 21:07:47:809 Consola_S-AFA/(22781:22795): Se ingreso comando ejecutar
+[INFO] 21:09:57:497 Consola_S-AFA/(22960:22970): Gestor de programas G.DT
+[INFO] 21:09:57:514 Consola_S-AFA/(22960:22970): Ingrese la operacion deseada:
+[INFO] 21:09:57:520 Consola_S-AFA/(22960:22970): ejecutar RutaEncriptorio
+[INFO] 21:09:57:520 Consola_S-AFA/(22960:22970): status (ID_DTBLOCK)
+[INFO] 21:09:57:522 Consola_S-AFA/(22960:22970): finalizar ID_DTBLOCK
+[INFO] 21:09:57:523 Consola_S-AFA/(22960:22970): metricas (ID_DTBLOCK)
+[INFO] 21:10:04:542 Consola_S-AFA/(22960:22970): Se ingreso comando ejecutar
+[INFO] 21:11:02:641 Consola_S-AFA/(22994:23004): Gestor de programas G.DT
+[INFO] 21:11:02:663 Consola_S-AFA/(22994:23004): Ingrese la operacion deseada:
+[INFO] 21:11:02:663 Consola_S-AFA/(22994:23004): ejecutar RutaEncriptorio
+[INFO] 21:11:02:664 Consola_S-AFA/(22994:23004): status (ID_DTBLOCK)
+[INFO] 21:11:02:667 Consola_S-AFA/(22994:23004): finalizar ID_DTBLOCK
+[INFO] 21:11:02:670 Consola_S-AFA/(22994:23004): metricas (ID_DTBLOCK)
+[INFO] 21:11:11:848 Consola_S-AFA/(22994:23004): Se ingreso comando ejecutar
+[INFO] 21:16:31:555 Consola_S-AFA/(23202:23216): Gestor de programas G.DT
+[INFO] 21:16:31:561 Consola_S-AFA/(23202:23216): Ingrese la operacion deseada:
+[INFO] 21:16:31:562 Consola_S-AFA/(23202:23216): ejecutar RutaEncriptorio
+[INFO] 21:16:31:565 Consola_S-AFA/(23202:23216): status (ID_DTBLOCK)
+[INFO] 21:16:31:570 Consola_S-AFA/(23202:23216): finalizar ID_DTBLOCK
+[INFO] 21:16:31:572 Consola_S-AFA/(23202:23216): metricas (ID_DTBLOCK)
+[INFO] 21:16:39:569 Consola_S-AFA/(23202:23216): Se ingreso comando ejecutar
+[INFO] 21:17:05:364 Consola_S-AFA/(23202:23216): Se ingreso comando ejecutar
+[INFO] 21:17:05:704 Consola_S-AFA/(23202:23216): Se ingreso comando ejecutar
+[INFO] 21:17:51:881 Consola_S-AFA/(23202:23216): Se ingreso comando ejecutar
+[INFO] 21:17:51:914 Consola_S-AFA/(23202:23216): Se ingreso comando ejecutar
+[INFO] 21:17:52:266 Consola_S-AFA/(23202:23216): Se ingreso comando ejecutar
+[INFO] 21:25:28:216 Consola_S-AFA/(23731:23747): Gestor de programas G.DT
+[INFO] 21:25:28:221 Consola_S-AFA/(23731:23747): Ingrese la operacion deseada:
+[INFO] 21:25:28:227 Consola_S-AFA/(23731:23747): ejecutar RutaEncriptorio
+[INFO] 21:25:28:228 Consola_S-AFA/(23731:23747): status (ID_DTBLOCK)
+[INFO] 21:25:28:228 Consola_S-AFA/(23731:23747): finalizar ID_DTBLOCK
+[INFO] 21:25:28:228 Consola_S-AFA/(23731:23747): metricas (ID_DTBLOCK)
+[INFO] 21:26:31:515 Consola_S-AFA/(23731:23747): Se ingreso comando ejecutar
+[INFO] 21:26:31:904 Consola_S-AFA/(23731:23747): Se ingreso comando ejecutar
+[INFO] 21:38:01:132 Consola_S-AFA/(24417:24427): Gestor de programas G.DT
+[INFO] 21:38:01:141 Consola_S-AFA/(24417:24427): Ingrese la operacion deseada:
+[INFO] 21:38:01:149 Consola_S-AFA/(24417:24427): ejecutar RutaEncriptorio
+[INFO] 21:38:01:152 Consola_S-AFA/(24417:24427): status (ID_DTBLOCK)
+[INFO] 21:38:01:152 Consola_S-AFA/(24417:24427): finalizar ID_DTBLOCK
+[INFO] 21:38:01:153 Consola_S-AFA/(24417:24427): metricas (ID_DTBLOCK)
+[INFO] 21:38:33:861 Consola_S-AFA/(24417:24427): Se ingreso comando ejecutar
+[INFO] 21:38:34:162 Consola_S-AFA/(24417:24427): Se ingreso comando ejecutar
+[INFO] 22:22:00:828 Consola_S-AFA/(26083:26094): Gestor de programas G.DT
+[INFO] 22:22:00:837 Consola_S-AFA/(26083:26094): Ingrese la operacion deseada:
+[INFO] 22:22:00:850 Consola_S-AFA/(26083:26094): ejecutar RutaEncriptorio
+[INFO] 22:22:00:856 Consola_S-AFA/(26083:26094): status (ID_DTBLOCK)
+[INFO] 22:22:00:863 Consola_S-AFA/(26083:26094): finalizar ID_DTBLOCK
+[INFO] 22:22:00:863 Consola_S-AFA/(26083:26094): metricas (ID_DTBLOCK)
+[INFO] 22:22:13:555 Consola_S-AFA/(26083:26094): Se ingreso comando ejecutar
+[INFO] 22:22:57:938 Consola_S-AFA/(26083:26094): Se ingreso comando ejecutar
+[INFO] 22:22:57:968 Consola_S-AFA/(26083:26094): Se ingreso comando ejecutar
+[INFO] 22:22:58:324 Consola_S-AFA/(26083:26094): Se ingreso comando ejecutar
+[INFO] 22:23:44:647 Consola_S-AFA/(26083:26094): Se ingreso comando ejecutar
+[INFO] 22:23:44:815 Consola_S-AFA/(26083:26094): Se ingreso comando ejecutar
+[INFO] 22:29:52:139 Consola_S-AFA/(26623:26635): Gestor de programas G.DT
+[INFO] 22:29:52:150 Consola_S-AFA/(26623:26635): Ingrese la operacion deseada:
+[INFO] 22:29:52:152 Consola_S-AFA/(26623:26635): ejecutar RutaEncriptorio
+[INFO] 22:29:52:159 Consola_S-AFA/(26623:26635): status (ID_DTBLOCK)
+[INFO] 22:29:52:167 Consola_S-AFA/(26623:26635): finalizar ID_DTBLOCK
+[INFO] 22:29:52:174 Consola_S-AFA/(26623:26635): metricas (ID_DTBLOCK)
+[INFO] 22:30:07:637 Consola_S-AFA/(26623:26635): Se ingreso comando ejecutar
+[INFO] 22:30:08:66 Consola_S-AFA/(26623:26635): Se ingreso comando ejecutar
+[INFO] 22:43:29:946 Consola_S-AFA/(27078:27092): Gestor de programas G.DT
+[INFO] 22:43:29:955 Consola_S-AFA/(27078:27092): Ingrese la operacion deseada:
+[INFO] 22:43:29:970 Consola_S-AFA/(27078:27092): ejecutar RutaEncriptorio
+[INFO] 22:43:29:971 Consola_S-AFA/(27078:27092): status (ID_DTBLOCK)
+[INFO] 22:43:29:974 Consola_S-AFA/(27078:27092): finalizar ID_DTBLOCK
+[INFO] 22:43:29:986 Consola_S-AFA/(27078:27092): metricas (ID_DTBLOCK)
+[INFO] 22:43:44:772 Consola_S-AFA/(27078:27092): Se ingreso comando ejecutar
+[INFO] 22:43:44:907 Consola_S-AFA/(27078:27092): Se ingreso comando ejecutar
+[INFO] 23:38:34:604 Consola_S-AFA/(28287:28297): Gestor de programas G.DT
+[INFO] 23:38:34:627 Consola_S-AFA/(28287:28297): Ingrese la operacion deseada:
+[INFO] 23:38:34:627 Consola_S-AFA/(28287:28297): ejecutar RutaEncriptorio
+[INFO] 23:38:34:628 Consola_S-AFA/(28287:28297): status (ID_DTBLOCK)
+[INFO] 23:38:34:629 Consola_S-AFA/(28287:28297): finalizar ID_DTBLOCK
+[INFO] 23:38:34:636 Consola_S-AFA/(28287:28297): metricas (ID_DTBLOCK)
+[INFO] 23:38:44:520 Consola_S-AFA/(28287:28297): Se ingreso comando ejecutar
+[INFO] 23:38:44:892 Consola_S-AFA/(28287:28297): Se ingreso comando ejecutar
+[INFO] 23:40:28:893 Consola_S-AFA/(28287:28297): Se ingreso comando ejecutar
+[INFO] 23:40:28:942 Consola_S-AFA/(28287:28297): Se ingreso comando ejecutar
+[INFO] 23:40:29:284 Consola_S-AFA/(28287:28297): Se ingreso comando ejecutar
+[INFO] 23:53:53:986 Consola_S-AFA/(28984:28995): Gestor de programas G.DT
+[INFO] 23:53:53:0 Consola_S-AFA/(28984:28995): Ingrese la operacion deseada:
+[INFO] 23:53:53:1 Consola_S-AFA/(28984:28995): ejecutar RutaEncriptorio
+[INFO] 23:53:53:2 Consola_S-AFA/(28984:28995): status (ID_DTBLOCK)
+[INFO] 23:53:53:4 Consola_S-AFA/(28984:28995): finalizar ID_DTBLOCK
+[INFO] 23:53:54:12 Consola_S-AFA/(28984:28995): metricas (ID_DTBLOCK)
+[INFO] 23:54:08:237 Consola_S-AFA/(28984:28995): Se ingreso comando ejecutar
+[INFO] 23:54:08:626 Consola_S-AFA/(28984:28995): Se ingreso comando ejecutar
+[INFO] 23:57:48:588 Consola_S-AFA/(29153:29167): Gestor de programas G.DT
+[INFO] 23:57:48:596 Consola_S-AFA/(29153:29167): Ingrese la operacion deseada:
+[INFO] 23:57:48:597 Consola_S-AFA/(29153:29167): ejecutar RutaEncriptorio
+[INFO] 23:57:48:599 Consola_S-AFA/(29153:29167): status (ID_DTBLOCK)
+[INFO] 23:57:48:600 Consola_S-AFA/(29153:29167): finalizar ID_DTBLOCK
+[INFO] 23:57:48:604 Consola_S-AFA/(29153:29167): metricas (ID_DTBLOCK)
+[INFO] 23:58:07:732 Consola_S-AFA/(29153:29167): Se ingreso comando ejecutar
+[INFO] 23:58:08:56 Consola_S-AFA/(29153:29167): Se ingreso comando ejecutar
+[INFO] 00:40:41:872 Consola_S-AFA/(30202:30213): Gestor de programas G.DT
+[INFO] 00:40:41:887 Consola_S-AFA/(30202:30213): Ingrese la operacion deseada:
+[INFO] 00:40:41:900 Consola_S-AFA/(30202:30213): ejecutar RutaEncriptorio
+[INFO] 00:40:41:901 Consola_S-AFA/(30202:30213): status (ID_DTBLOCK)
+[INFO] 00:40:41:902 Consola_S-AFA/(30202:30213): finalizar ID_DTBLOCK
+[INFO] 00:40:41:902 Consola_S-AFA/(30202:30213): metricas (ID_DTBLOCK)
+[INFO] 00:41:02:921 Consola_S-AFA/(30202:30213): Se ingreso comando ejecutar
+[INFO] 00:41:03:316 Consola_S-AFA/(30202:30213): Se ingreso comando ejecutar
+[INFO] 00:56:10:824 Consola_S-AFA/(30573:30594): Gestor de programas G.DT
+[INFO] 00:56:10:829 Consola_S-AFA/(30573:30594): Ingrese la operacion deseada:
+[INFO] 00:56:10:834 Consola_S-AFA/(30573:30594): ejecutar RutaEncriptorio
+[INFO] 00:56:10:842 Consola_S-AFA/(30573:30594): status (ID_DTBLOCK)
+[INFO] 00:56:10:842 Consola_S-AFA/(30573:30594): finalizar ID_DTBLOCK
+[INFO] 00:56:10:843 Consola_S-AFA/(30573:30594): metricas (ID_DTBLOCK)
+[INFO] 00:56:55:94 Consola_S-AFA/(30573:30594): Se ingreso comando ejecutar
+[INFO] 00:56:55:464 Consola_S-AFA/(30573:30594): Se ingreso comando ejecutar
+[INFO] 00:59:54:954 Consola_S-AFA/(30682:30696): Gestor de programas G.DT
+[INFO] 00:59:54:959 Consola_S-AFA/(30682:30696): Ingrese la operacion deseada:
+[INFO] 00:59:54:961 Consola_S-AFA/(30682:30696): ejecutar RutaEncriptorio
+[INFO] 00:59:54:963 Consola_S-AFA/(30682:30696): status (ID_DTBLOCK)
+[INFO] 00:59:54:967 Consola_S-AFA/(30682:30696): finalizar ID_DTBLOCK
+[INFO] 00:59:54:968 Consola_S-AFA/(30682:30696): metricas (ID_DTBLOCK)
+[INFO] 01:00:05:490 Consola_S-AFA/(30682:30696): Se ingreso comando ejecutar
+[INFO] 01:00:05:772 Consola_S-AFA/(30682:30696): Se ingreso comando ejecutar
+[INFO] 01:00:57:525 Consola_S-AFA/(30728:30746): Gestor de programas G.DT
+[INFO] 01:00:57:527 Consola_S-AFA/(30728:30746): Ingrese la operacion deseada:
+[INFO] 01:00:57:528 Consola_S-AFA/(30728:30746): ejecutar RutaEncriptorio
+[INFO] 01:00:57:541 Consola_S-AFA/(30728:30746): status (ID_DTBLOCK)
+[INFO] 01:00:57:552 Consola_S-AFA/(30728:30746): finalizar ID_DTBLOCK
+[INFO] 01:00:57:560 Consola_S-AFA/(30728:30746): metricas (ID_DTBLOCK)
+[INFO] 01:01:04:538 Consola_S-AFA/(30728:30746): Se ingreso comando ejecutar
+[INFO] 01:01:05:14 Consola_S-AFA/(30728:30746): Se ingreso comando ejecutar
+[INFO] 01:03:32:562 Consola_S-AFA/(30845:30860): Gestor de programas G.DT
+[INFO] 01:03:32:570 Consola_S-AFA/(30845:30860): Ingrese la operacion deseada:
+[INFO] 01:03:32:571 Consola_S-AFA/(30845:30860): ejecutar RutaEncriptorio
+[INFO] 01:03:32:572 Consola_S-AFA/(30845:30860): status (ID_DTBLOCK)
+[INFO] 01:03:32:573 Consola_S-AFA/(30845:30860): finalizar ID_DTBLOCK
+[INFO] 01:03:32:577 Consola_S-AFA/(30845:30860): metricas (ID_DTBLOCK)
+[INFO] 01:03:41:853 Consola_S-AFA/(30845:30860): Se ingreso comando ejecutar
+[INFO] 01:03:42:334 Consola_S-AFA/(30845:30860): Se ingreso comando ejecutar
+[INFO] 01:13:09:823 Consola_S-AFA/(31069:31081): Gestor de programas G.DT
+[INFO] 01:13:09:830 Consola_S-AFA/(31069:31081): Ingrese la operacion deseada:
+[INFO] 01:13:09:840 Consola_S-AFA/(31069:31081): ejecutar RutaEncriptorio
+[INFO] 01:13:09:842 Consola_S-AFA/(31069:31081): status (ID_DTBLOCK)
+[INFO] 01:13:09:849 Consola_S-AFA/(31069:31081): finalizar ID_DTBLOCK
+[INFO] 01:13:09:860 Consola_S-AFA/(31069:31081): metricas (ID_DTBLOCK)
+[INFO] 01:13:19:117 Consola_S-AFA/(31069:31081): Se ingreso comando ejecutar
+[INFO] 01:13:19:493 Consola_S-AFA/(31069:31081): Se ingreso comando ejecutar
+[INFO] 01:13:59:10 Consola_S-AFA/(31069:31081): Se ingreso comando ejecutar
+[INFO] 01:13:59:61 Consola_S-AFA/(31069:31081): Se ingreso comando ejecutar
+[INFO] 01:13:59:454 Consola_S-AFA/(31069:31081): Se ingreso comando ejecutar
+[INFO] 01:14:36:525 Consola_S-AFA/(31069:31081): Se ingreso comando ejecutar
+[INFO] 01:14:36:566 Consola_S-AFA/(31069:31081): Se ingreso comando ejecutar
+[INFO] 01:14:36:909 Consola_S-AFA/(31069:31081): Se ingreso comando ejecutar
+[INFO] 01:15:50:630 Consola_S-AFA/(31220:31230): Gestor de programas G.DT
+[INFO] 01:15:50:645 Consola_S-AFA/(31220:31230): Ingrese la operacion deseada:
+[INFO] 01:15:50:646 Consola_S-AFA/(31220:31230): ejecutar RutaEncriptorio
+[INFO] 01:15:50:646 Consola_S-AFA/(31220:31230): status (ID_DTBLOCK)
+[INFO] 01:15:50:646 Consola_S-AFA/(31220:31230): finalizar ID_DTBLOCK
+[INFO] 01:15:50:648 Consola_S-AFA/(31220:31230): metricas (ID_DTBLOCK)
+[INFO] 01:15:57:398 Consola_S-AFA/(31220:31230): Se ingreso comando ejecutar
+[INFO] 01:15:57:480 Consola_S-AFA/(31220:31230): Se ingreso comando ejecutar
+[INFO] 01:15:57:861 Consola_S-AFA/(31220:31230): Se ingreso comando ejecutar
